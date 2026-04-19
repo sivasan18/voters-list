@@ -522,15 +522,25 @@ Serial numbers auto-corrected."></textarea>
   <div class="modal" id="modalBox">
     <button class="modal-close" onclick="closeModal()">✕</button>
 
-    <div class="voter-top">
-      <div class="sn-box" style="width:80px; height:80px;">
-        <div class="sn-label" style="font-size:10px">SERIAL</div>
-        <div class="sn-num" id="mSerial" style="font-size:32px">0</div>
+    <!-- ROW 1: Serial + Name + Part -->
+    <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px; padding-bottom:16px; border-bottom:1px solid var(--border);">
+      <div class="sn-box" style="width:65px; height:65px; flex-shrink:0;">
+        <div class="sn-label" style="font-size:9px">SERIAL</div>
+        <div class="sn-num" id="mSerial" style="font-size:26px">0</div>
       </div>
-      <div class="voter-info">
-        <div class="voter-name" id="mName" style="font-size:20px; margin-bottom:6px">—</div>
-        <div class="voter-part" id="mPart" style="font-size:14px; color:var(--primary); background:var(--pdim); padding:4px 10px; border-radius:15px; display:inline-block;">PART 0</div>
+      <div style="flex:1; min-width:0; text-align:center;">
+        <div id="mName" style="font-size:26px; font-weight:800; color:var(--text); line-height:1.2; word-break:break-word;">—</div>
       </div>
+      <div class="sn-box" style="width:65px; height:65px; flex-shrink:0;">
+        <div class="sn-label" style="font-size:9px">PART</div>
+        <div class="sn-num" id="mPartNum" style="font-size:26px">0</div>
+      </div>
+    </div>
+
+    <!-- PARENT NAME (highlighted) -->
+    <div id="parentRow" style="margin-bottom:14px; padding:12px 14px; background:var(--pdim); border:1px solid rgba(220,38,38,.25); border-radius:10px;">
+      <div style="font-size:10px; color:var(--text3); text-transform:uppercase; letter-spacing:.6px; font-weight:600; margin-bottom:4px;">👤 Father / Mother / Husband</div>
+      <div id="mParent" style="font-size:18px; font-weight:700; color:var(--primary2);">—</div>
     </div>
 
     <div class="detail-list">
@@ -543,18 +553,10 @@ Serial numbers auto-corrected."></textarea>
         </div>
       </div>
 
-      <div class="det-row" id="parentRow">
-        <div class="det-icon">👤</div>
-        <div class="det-body">
-          <div class="det-lbl">Father / Mother / Husband</div>
-          <div class="det-val" id="mParent">—</div>
-        </div>
-      </div>
-
       <div class="det-row" id="ageRow">
         <div class="det-icon">📅</div>
         <div class="det-body">
-          <div class="det-lbl">Age / Date of Birth</div>
+          <div class="det-lbl">Age</div>
           <div class="det-val" id="mAge">—</div>
         </div>
       </div>
@@ -924,9 +926,10 @@ function doSearch(q) {
 
   if (q) {
     const lo = q.toLowerCase();
+    const up = q.toUpperCase();
     results = results.filter(v => 
       (v.nameLow && v.nameLow.includes(lo)) || 
-      (v.epic && v.epic.toLowerCase().includes(lo))
+      (v.epic && v.epic.toUpperCase().includes(up))
     );
   }
 
@@ -976,19 +979,35 @@ function openModal(id) {
   const v = cache.find(x => x.id === id);
   if (!v) return;
 
-  document.getElementById('mSerial').textContent = v.serial || v.serial_number || 'Unknown';
-  document.getElementById('mName').textContent   = v.name;
-  document.getElementById('mPart').textContent   = 'PART ' + (v.partNumber || v.part_number || '?');
-  document.getElementById('mEpic').textContent   = v.epic || '—';
-  document.getElementById('mParent').textContent = v.parent || v.parent_name_address || '—';
-  document.getElementById('mAge').textContent    = v.age ? v.age + ' yrs' : '—';
-  document.getElementById('mGender').textContent = v.gender || '—';
+  document.getElementById('mSerial').textContent  = v.serial || v.serial_number || '?';
+  document.getElementById('mPartNum').textContent  = v.partNumber || v.part_number || '?';
+  document.getElementById('mName').textContent     = v.name || '—';
+  document.getElementById('mEpic').textContent     = v.epic || '—';
 
-  document.getElementById('parentRow').style.display = v.parent  ? 'flex' : 'none';
+  const rawParent = v.parent || v.parent_name_address || '';
+  const cleanedParent = cleanParent(rawParent);
+  document.getElementById('mParent').textContent   = cleanedParent || '—';
+  document.getElementById('parentRow').style.display = cleanedParent ? '' : 'none';
+
+  document.getElementById('mAge').textContent      = v.age ? v.age + ' yrs' : '—';
+  document.getElementById('mGender').textContent   = v.gender || '—';
+
   document.getElementById('ageRow').style.display    = v.age ? 'flex' : 'none';
-  document.getElementById('genderRow').style.display = v.gender  ? 'flex' : 'none';
+  document.getElementById('genderRow').style.display = v.gender ? 'flex' : 'none';
 
   document.getElementById('overlay').classList.add('open');
+}
+
+function cleanParent(text) {
+  if (!text) return '';
+  return text
+    .replace(/G\s*E\s*N\s*D\s*E\s*R\s*:?\s*/gi, '')
+    .replace(/Gender\s*:?\s*/gi, '')
+    .replace(/House\s*Number\s*:?\s*[0-9A-Za-z\-\/]*/gi, '')
+    .replace(/H\.No\s*:?\s*[0-9A-Za-z\-\/]*/gi, '')
+    .replace(/Age\s*:?\s*\d{1,3}/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function closeModal() { document.getElementById('overlay').classList.remove('open'); }
