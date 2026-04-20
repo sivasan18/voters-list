@@ -567,7 +567,6 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
 
   <div class="header-right">
     <button class="admin-btn" onclick="requestAdminAccess()">Admin</button>
-    <div class="badge" id="recordBadge" onclick="showAllFromHeader()">0 records</div>
     <div class="view-toggle">
       <button class="view-btn active" id="mobileViewBtn" onclick="setView('mobile')">📱 Mobile</button>
       <button class="view-btn" id="webViewBtn" onclick="setView('web')">💻 Web</button>
@@ -623,7 +622,13 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
 <div class="pane" id="pane-input">
 
   <div class="card" style="border-color:var(--info)">
-    <div class="card-hd" style="color:var(--info)">🛡️ ADMIN TOOL: DATA BUILDER</div>
+    <div class="card-hd" style="color:var(--info); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+      <span>🛡️ ADMIN TOOL: DATA BUILDER</span>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span class="badge" id="recordBadge" onclick="openAdminPartView()" style="background:#262626; color:#a3a3a3; border-color:#404040; cursor:pointer;">Total Records: 0</span>
+        <button class="btn btn-ghost btn-sm" onclick="logoutAdmin()" style="padding: 4px 10px; font-size:11px;">Logout</button>
+      </div>
+    </div>
     <p style="font-size:12px; color:var(--text2); margin-bottom:10px;">Use this tool to convert raw text into JSON files for GitHub upload.</p>
   </div>
 
@@ -659,6 +664,26 @@ Serial numbers auto-corrected."></textarea>
   </div>
 
 </div><!-- /pane-input -->
+
+<!-- ══════════════════════════════════════════ -->
+<!-- ADMIN PART VIEW PANE (NEW) -->
+<!-- ══════════════════════════════════════════ -->
+<div class="pane" id="pane-admin-view">
+  <div class="card" style="padding-bottom: 5px;">
+    <div class="card-hd" style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 0;">
+       <span style="font-size: 14px;">📊 Admin Record View</span>
+       <button class="btn btn-ghost btn-sm" onclick="switchTab('input', document.getElementById('tabInputBtn'))">Back</button>
+    </div>
+  </div>
+
+  <div class="search-card" style="padding: 15px; margin-bottom: 5px; display:flex; gap: 10px; align-items: center; background: var(--bg2);">
+     <label for="adminPartSelect" style="margin:0; color: var(--text);">Select Part:</label>
+     <select id="adminPartSelect" class="part-select" style="flex:1; padding: 8px;" onchange="renderAdminPart(this.value)"></select>
+     <div id="adminPartCount" style="font-family: var(--mono); font-size: 12px; color: var(--primary2);"></div>
+  </div>
+
+  <div class="res-list" id="adminPartList" style="display:grid; grid-template-columns: 1fr; gap:8px;"></div>
+</div><!-- /pane-admin-view -->
 
 </div><!-- /app -->
 
@@ -1155,21 +1180,20 @@ function cleanParentForModal(text, gender) {
   let pName = text.split(/House Number|H\.No|Age|Gender|வயது|கதவு எண்/i)[0].trim();
   
   const lowerText = text.toLowerCase();
-  const isFemale = gender.toLowerCase().includes('female') || gender.includes('பெண்');
+  const isFemale = String(gender).toLowerCase().includes('female') || String(gender).includes('பெண்');
   
-  let relation = "S/o"; // default
+  let relation = "S/o"; // default for all males
   
-  // 1. Check for Husband first
-  if (lowerText.includes("wife") || lowerText.includes("w/o") || lowerText.includes("கணவர்") || lowerText.includes("husband")) {
-    relation = "W/o";
-  } 
-  // 2. Check for Father/Mother and determine S/o or D/o based on voter gender
-  else if (lowerText.match(/father|mother|son|daughter|s\/o|d\/o|தந்தை|தாய்|மகன்|மகள்/i)) {
-    relation = isFemale ? "D/o" : "S/o";
-  } else {
-    // Fallback if no keywords found but gender is known
-    relation = isFemale ? "D/o" : "S/o";
+  if (isFemale) {
+    // For females, husband relation has highest priority
+    if (lowerText.includes("husband") || lowerText.includes("w/o") || lowerText.includes("கணவர்") || lowerText.includes("wife")) {
+      relation = "W/o";
+    } else {
+      // If no husband is explicitly found, default to Daughter
+      relation = "D/o";
+    }
   }
+
   
   // Remove prefixes from name
   pName = pName.replace(/^(S[\/\\]O|W[\/\\]O|D[\/\\]O|Son of|Wife of|Daughter of|Husband of|Father|Mother|தந்தை|தாய்|கணவர்|கணவன்)[:\s]*/i, '').trim();
@@ -1190,7 +1214,7 @@ function showStatus(msg, type) {
 
 function refreshCount() {
   const n = cache.length;
-  document.getElementById('recordBadge').textContent = n > 0 ? n.toLocaleString() + ' records' : '0 records';
+  document.getElementById('recordBadge').textContent = 'Total Records: ' + (n > 0 ? n.toLocaleString() : '0');
   document.getElementById('totalTxt').textContent    = n > 0 ? n.toLocaleString() + ' total' : '';
   
   const sel = document.getElementById('partFilter');
@@ -1213,7 +1237,7 @@ function showAllFromHeader() {
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
 // ================================================================
-// ADMIN ACCESS
+// ADMIN ACCESS & FEATURES
 // ================================================================
 function requestAdminAccess() {
   const pw = prompt("Enter Admin Password:");
@@ -1224,6 +1248,68 @@ function requestAdminAccess() {
   } else if (pw !== null) {
     showStatus("Access denied. Incorrect password.", "error");
   }
+}
+
+function logoutAdmin() {
+  // Hide admin tab
+  document.getElementById('tabInputBtn').style.display = 'none';
+  
+  // If currently in any admin view, kick them back to search
+  if (
+    document.getElementById('pane-input').classList.contains('active') || 
+    document.getElementById('pane-admin-view').classList.contains('active')
+  ) {
+    switchTab('search', document.getElementById('tabSearchBtn'));
+  }
+  showStatus("Logged out of Admin.", "info");
+}
+
+function openAdminPartView() {
+  if (cache.length === 0) {
+    showStatus('No records loaded yet.', 'error');
+    return;
+  }
+  
+  switchTab('admin-view', document.getElementById('tabInputBtn')); 
+  
+  const parts = [...new Set(cache.map(v => v.partNumber || v.part_number))].filter(Boolean).sort((a,b) => a-b);
+  const sel = document.getElementById('adminPartSelect');
+  sel.innerHTML = parts.map(p => `<option value="${p}">Part ${p}</option>`).join('');
+  
+  if (parts.length > 0) {
+    renderAdminPart(parts[0]);
+  }
+}
+
+function renderAdminPart(selectedPart) {
+  const partStr = String(selectedPart);
+  const records = cache.filter(v => String(v.part_number || v.partNumber) === partStr);
+  document.getElementById('adminPartCount').textContent = records.length + ' records';
+  
+  const list = document.getElementById('adminPartList');
+  let html = '';
+  
+  records.forEach(r => {
+    let sNo = r.serial_number || r.slno;
+    if (sNo === undefined || sNo === null || sNo === '') {
+      sNo = '-';
+    }
+    
+    html += `
+      <div class="res-item" onclick="openModal('${r.id}')" style="background:var(--bg3);">
+        <div class="res-sn">Serial: ${sNo}</div>
+        <div class="res-name">${escH(r.name_english || r.name)}</div>
+        <div class="res-epic">${escH(r.epic)}</div>
+      </div>
+    `;
+  });
+
+  
+  if(records.length === 0) {
+    html = '<div class="empty">No records found for this part.</div>';
+  }
+  
+  list.innerHTML = html;
 }
 
 // ================================================================
