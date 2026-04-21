@@ -9,7 +9,8 @@
     "street_name": "Maniyakar Street",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "suman"
+    "nameLow": "suman",
+    "status": "active"
   },
   {
     "serial_number": 2,
@@ -21,7 +22,8 @@
     "street_name": "Maniyakar Street",
     "age": 2,
     "gender": "Female / பெண்",
-    "nameLow": "ramya"
+    "nameLow": "ramya",
+    "status": "active"
   },
   {
     "serial_number": 3,
@@ -33,7 +35,8 @@
     "street_name": "Maniyakar Street",
     "age": 45,
     "gender": "Male / ஆண்",
-    "nameLow": "mannagatti"
+    "nameLow": "mannagatti",
+    "status": "active"
   },
   {
     "serial_number": 4,
@@ -45,7 +48,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "parameshwari"
+    "nameLow": "parameshwari",
+    "status": "active"
   },
   {
     "serial_number": 5,
@@ -57,7 +61,8 @@
     "street_name": "Maniyakar Street",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "sagadevan"
+    "nameLow": "sagadevan",
+    "status": "active"
   },
   {
     "serial_number": 6,
@@ -69,7 +74,8 @@
     "street_name": "Maniyakar Street",
     "age": 33,
     "gender": "Female / பெண்",
-    "nameLow": "kalyani"
+    "nameLow": "kalyani",
+    "status": "active"
   },
   {
     "serial_number": 7,
@@ -81,7 +87,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Male / ஆண்",
-    "nameLow": "ravi"
+    "nameLow": "ravi",
+    "status": "active"
   },
   {
     "serial_number": 8,
@@ -93,7 +100,8 @@
     "street_name": "Maniyakar Street",
     "age": 51,
     "gender": "Female / பெண்",
-    "nameLow": "jayanthi"
+    "nameLow": "jayanthi",
+    "status": "active"
   },
   {
     "serial_number": 9,
@@ -105,7 +113,8 @@
     "street_name": "Maniyakar Street",
     "age": 45,
     "gender": "Female / பெண்",
-    "nameLow": "mohana"
+    "nameLow": "mohana",
+    "status": "active"
   },
   {
     "serial_number": 10,
@@ -117,7 +126,8 @@
     "street_name": "Maniyakar Street",
     "age": 46,
     "gender": "Female / பெண்",
-    "nameLow": "shanthi"
+    "nameLow": "shanthi",
+    "status": "active"
   },
   {
     "serial_number": 11,
@@ -129,7 +139,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "manikandan"
+    "nameLow": "manikandan",
+    "status": "active"
   },
   {
     "serial_number": 12,
@@ -141,7 +152,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "jaya"
+    "nameLow": "jaya",
+    "status": "active"
   },
   {
     "serial_number": 13,
@@ -153,7 +165,8 @@
     "street_name": "Maniyakar Street",
     "age": 48,
     "gender": "Male / ஆண்",
-    "nameLow": "lyappan"
+    "nameLow": "lyappan",
+    "status": "active"
   },
   {
     "serial_number": 14,
@@ -165,7 +178,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "danalakshmi"
+    "nameLow": "danalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 15,
@@ -177,7 +191,8 @@
     "street_name": "Maniyakar Street",
     "age": 60,
     "gender": "Female / பெண்",
-    "nameLow": "senkeniyammal"
+    "nameLow": "senkeniyammal",
+    "status": "active"
   },
   {
     "serial_number": 16,
@@ -189,7 +204,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Male / ஆண்",
-    "nameLow": "kaluram"
+    "nameLow": "kaluram",
+    "status": "active"
   },
   {
     "serial_number": 17,
@@ -201,7 +217,8 @@
     "street_name": "Maniyakar Street",
     "age": 76,
     "gender": "Female / பெண்",
-    "nameLow": "visalakshi"
+    "nameLow": "visalakshi",
+    "status": "active"
   },
   {
     "serial_number": 18,
@@ -213,7 +230,8 @@
     "street_name": "Maniyakar Street",
     "age": 59,
     "gender": "Male / ஆண்",
-    "nameLow": "sanjeevi"
+    "nameLow": "sanjeevi",
+    "status": "active"
   },
   {
     "serial_number": 19,
@@ -225,7 +243,8 @@
     "street_name": "Maniyakar Street",
     "age": 47,
     "gender": "Male / ஆண்",
-    "nameLow": "sagadevan"
+    "nameLow": "sagadevan",
+    "status": "active"
   },
   {
     "serial_number": 20,
@@ -237,7 +256,8 @@
     "street_name": "Maniyakar Street",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "ezhumalai"
+    "nameLow": "ezhumalai",
+    "status": "active"
   },
   {
     "serial_number": 21,
@@ -249,7 +269,8 @@
     "street_name": "Maniyakar Street",
     "age": 56,
     "gender": "Male / ஆண்",
-    "nameLow": "senthil"
+    "nameLow": "senthil",
+    "status": "active"
   },
   {
     "serial_number": 22,
@@ -261,7 +282,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "radha"
+    "nameLow": "radha",
+    "status": "active"
   },
   {
     "serial_number": 23,
@@ -273,7 +295,8 @@
     "street_name": "Maniyakar Street",
     "age": 39,
     "gender": "Male / ஆண்",
-    "nameLow": "ponnusamy"
+    "nameLow": "ponnusamy",
+    "status": "active"
   },
   {
     "serial_number": 24,
@@ -285,7 +308,8 @@
     "street_name": "Maniyakar Street",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "priyanka"
+    "nameLow": "priyanka",
+    "status": "active"
   },
   {
     "serial_number": 25,
@@ -297,7 +321,8 @@
     "street_name": "Maniyakar Street",
     "age": 60,
     "gender": "Male / ஆண்",
-    "nameLow": "jayaraman"
+    "nameLow": "jayaraman",
+    "status": "active"
   },
   {
     "serial_number": 26,
@@ -309,7 +334,8 @@
     "street_name": "Maniyakar Street",
     "age": 57,
     "gender": "Female / பெண்",
-    "nameLow": "selvi"
+    "nameLow": "selvi",
+    "status": "active"
   },
   {
     "serial_number": 27,
@@ -321,7 +347,8 @@
     "street_name": "Maniyakar Street",
     "age": 52,
     "gender": "Female / பெண்",
-    "nameLow": "vasanthi"
+    "nameLow": "vasanthi",
+    "status": "active"
   },
   {
     "serial_number": 28,
@@ -333,7 +360,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Male / ஆண்",
-    "nameLow": "sayapaul"
+    "nameLow": "sayapaul",
+    "status": "active"
   },
   {
     "serial_number": 29,
@@ -345,7 +373,8 @@
     "street_name": "Maniyakar Street",
     "age": 46,
     "gender": "Female / பெண்",
-    "nameLow": "leela"
+    "nameLow": "leela",
+    "status": "active"
   },
   {
     "serial_number": 30,
@@ -357,7 +386,8 @@
     "street_name": "Maniyakar Street",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "rajeswari"
+    "nameLow": "rajeswari",
+    "status": "active"
   },
   {
     "serial_number": 31,
@@ -369,7 +399,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "loganathan"
+    "nameLow": "loganathan",
+    "status": "active"
   },
   {
     "serial_number": 32,
@@ -381,7 +412,8 @@
     "street_name": "Maniyakar Street",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "avani"
+    "nameLow": "avani",
+    "status": "active"
   },
   {
     "serial_number": 33,
@@ -393,7 +425,8 @@
     "street_name": "Maniyakar Street",
     "age": 35,
     "gender": "Female / பெண்",
-    "nameLow": "sathiya"
+    "nameLow": "sathiya",
+    "status": "active"
   },
   {
     "serial_number": 34,
@@ -405,7 +438,8 @@
     "street_name": "Maniyakar Street",
     "age": 22,
     "gender": "Female / பெண்",
-    "nameLow": "sandhiya"
+    "nameLow": "sandhiya",
+    "status": "active"
   },
   {
     "serial_number": 35,
@@ -417,7 +451,8 @@
     "street_name": "Maniyakar Street",
     "age": 80,
     "gender": "Male / ஆண்",
-    "nameLow": "santhamurthy"
+    "nameLow": "santhamurthy",
+    "status": "active"
   },
   {
     "serial_number": 36,
@@ -429,7 +464,8 @@
     "street_name": "Maniyakar Street",
     "age": 68,
     "gender": "Female / பெண்",
-    "nameLow": "kannabai"
+    "nameLow": "kannabai",
+    "status": "deleted"
   },
   {
     "serial_number": 37,
@@ -441,7 +477,8 @@
     "street_name": "Maniyakar Street",
     "age": 56,
     "gender": "Male / ஆண்",
-    "nameLow": "prabhakaran"
+    "nameLow": "prabhakaran",
+    "status": "active"
   },
   {
     "serial_number": 38,
@@ -453,7 +490,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Male / ஆண்",
-    "nameLow": "ganesan"
+    "nameLow": "ganesan",
+    "status": "active"
   },
   {
     "serial_number": 39,
@@ -465,7 +503,8 @@
     "street_name": "Maniyakar Street",
     "age": 64,
     "gender": "Male / ஆண்",
-    "nameLow": "vijayakumar"
+    "nameLow": "vijayakumar",
+    "status": "active"
   },
   {
     "serial_number": 40,
@@ -477,7 +516,8 @@
     "street_name": "Maniyakar Street",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "ravichandran"
+    "nameLow": "ravichandran",
+    "status": "active"
   },
   {
     "serial_number": 41,
@@ -489,7 +529,8 @@
     "street_name": "Maniyakar Street",
     "age": 35,
     "gender": "Female / பெண்",
-    "nameLow": "malathi"
+    "nameLow": "malathi",
+    "status": "active"
   },
   {
     "serial_number": 42,
@@ -501,7 +542,8 @@
     "street_name": "Maniyakar Street",
     "age": 72,
     "gender": "Male / ஆண்",
-    "nameLow": "elumalai"
+    "nameLow": "elumalai",
+    "status": "active"
   },
   {
     "serial_number": 43,
@@ -513,7 +555,8 @@
     "street_name": "Maniyakar Street",
     "age": 50,
     "gender": "Female / பெண்",
-    "nameLow": "sarasu"
+    "nameLow": "sarasu",
+    "status": "active"
   },
   {
     "serial_number": 44,
@@ -525,7 +568,8 @@
     "street_name": "Maniyakar Street",
     "age": 47,
     "gender": "Male / ஆண்",
-    "nameLow": "raji|"
+    "nameLow": "raji|",
+    "status": "active"
   },
   {
     "serial_number": 45,
@@ -537,7 +581,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "bhavani"
+    "nameLow": "bhavani",
+    "status": "active"
   },
   {
     "serial_number": 46,
@@ -549,7 +594,8 @@
     "street_name": "Maniyakar Street",
     "age": 35,
     "gender": "Female / பெண்",
-    "nameLow": "ananthi"
+    "nameLow": "ananthi",
+    "status": "active"
   },
   {
     "serial_number": 47,
@@ -561,7 +607,8 @@
     "street_name": "Maniyakar Street",
     "age": 82,
     "gender": "Female / பெண்",
-    "nameLow": "janaki"
+    "nameLow": "janaki",
+    "status": "active"
   },
   {
     "serial_number": 48,
@@ -573,7 +620,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "sumathi"
+    "nameLow": "sumathi",
+    "status": "active"
   },
   {
     "serial_number": 49,
@@ -585,7 +633,8 @@
     "street_name": "Maniyakar Street",
     "age": 57,
     "gender": "Male / ஆண்",
-    "nameLow": "jayakanthan"
+    "nameLow": "jayakanthan",
+    "status": "active"
   },
   {
     "serial_number": 50,
@@ -597,7 +646,8 @@
     "street_name": "Maniyakar Street",
     "age": 52,
     "gender": "Male / ஆண்",
-    "nameLow": "ezhilnilavan"
+    "nameLow": "ezhilnilavan",
+    "status": "active"
   },
   {
     "serial_number": 51,
@@ -609,7 +659,8 @@
     "street_name": "Maniyakar Street",
     "age": 51,
     "gender": "Female / பெண்",
-    "nameLow": "ananthi"
+    "nameLow": "ananthi",
+    "status": "active"
   },
   {
     "serial_number": 52,
@@ -621,7 +672,8 @@
     "street_name": "Maniyakar Street",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "vijayan"
+    "nameLow": "vijayan",
+    "status": "active"
   },
   {
     "serial_number": 53,
@@ -633,7 +685,8 @@
     "street_name": "Maniyakar Street",
     "age": 75,
     "gender": "Male / ஆண்",
-    "nameLow": "manmadhan"
+    "nameLow": "manmadhan",
+    "status": "deleted"
   },
   {
     "serial_number": 54,
@@ -645,7 +698,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "kutty ammall"
+    "nameLow": "kutty ammall",
+    "status": "active"
   },
   {
     "serial_number": 55,
@@ -657,7 +711,8 @@
     "street_name": "Maniyakar Street",
     "age": 60,
     "gender": "Male / ஆண்",
-    "nameLow": "gnanasekar|"
+    "nameLow": "gnanasekar|",
+    "status": "active"
   },
   {
     "serial_number": 56,
@@ -669,7 +724,8 @@
     "street_name": "Maniyakar Street",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "soundharya"
+    "nameLow": "soundharya",
+    "status": "active"
   },
   {
     "serial_number": 57,
@@ -681,7 +737,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 58,
@@ -693,7 +750,8 @@
     "street_name": "Maniyakar Street",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "akshaya"
+    "nameLow": "akshaya",
+    "status": "active"
   },
   {
     "serial_number": 59,
@@ -705,7 +763,8 @@
     "street_name": "Maniyakar Street",
     "age": 82,
     "gender": "Female / பெண்",
-    "nameLow": "chinnammal"
+    "nameLow": "chinnammal",
+    "status": "active"
   },
   {
     "serial_number": 60,
@@ -717,7 +776,8 @@
     "street_name": "Maniyakar Street",
     "age": 69,
     "gender": "Female / பெண்",
-    "nameLow": "dhalakshmi"
+    "nameLow": "dhalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 61,
@@ -729,7 +789,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "ramayi"
+    "nameLow": "ramayi",
+    "status": "active"
   },
   {
     "serial_number": 62,
@@ -741,7 +802,8 @@
     "street_name": "Maniyakar Street",
     "age": 71,
     "gender": "Male / ஆண்",
-    "nameLow": "thiyagarajan"
+    "nameLow": "thiyagarajan",
+    "status": "active"
   },
   {
     "serial_number": 63,
@@ -753,7 +815,8 @@
     "street_name": "Maniyakar Street",
     "age": 66,
     "gender": "Female / பெண்",
-    "nameLow": "pushpa"
+    "nameLow": "pushpa",
+    "status": "active"
   },
   {
     "serial_number": 64,
@@ -765,7 +828,8 @@
     "street_name": "Maniyakar Street",
     "age": 61,
     "gender": "Female / பெண்",
-    "nameLow": "banumathi"
+    "nameLow": "banumathi",
+    "status": "active"
   },
   {
     "serial_number": 65,
@@ -777,7 +841,8 @@
     "street_name": "Maniyakar Street",
     "age": 53,
     "gender": "Female / பெண்",
-    "nameLow": "chitra"
+    "nameLow": "chitra",
+    "status": "active"
   },
   {
     "serial_number": 66,
@@ -789,7 +854,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Male / ஆண்",
-    "nameLow": "rajesh"
+    "nameLow": "rajesh",
+    "status": "active"
   },
   {
     "serial_number": 67,
@@ -801,7 +867,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "chitra"
+    "nameLow": "chitra",
+    "status": "active"
   },
   {
     "serial_number": 68,
@@ -813,7 +880,8 @@
     "street_name": "Maniyakar Street",
     "age": 73,
     "gender": "Male / ஆண்",
-    "nameLow": "arumugam"
+    "nameLow": "arumugam",
+    "status": "active"
   },
   {
     "serial_number": 69,
@@ -825,7 +893,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "banumathi"
+    "nameLow": "banumathi",
+    "status": "active"
   },
   {
     "serial_number": 70,
@@ -837,7 +906,8 @@
     "street_name": "Maniyakar Street",
     "age": 45,
     "gender": "Male / ஆண்",
-    "nameLow": "danasakaran"
+    "nameLow": "danasakaran",
+    "status": "active"
   },
   {
     "serial_number": 71,
@@ -849,7 +919,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Male / ஆண்",
-    "nameLow": "mohan"
+    "nameLow": "mohan",
+    "status": "active"
   },
   {
     "serial_number": 72,
@@ -861,7 +932,8 @@
     "street_name": "Maniyakar Street",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "vijayapandiyan"
+    "nameLow": "vijayapandiyan",
+    "status": "active"
   },
   {
     "serial_number": 73,
@@ -873,7 +945,8 @@
     "street_name": "Maniyakar Street",
     "age": 65,
     "gender": "Female / பெண்",
-    "nameLow": "angammal"
+    "nameLow": "angammal",
+    "status": "active"
   },
   {
     "serial_number": 74,
@@ -885,7 +958,8 @@
     "street_name": "Maniyakar Street",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "paventhan"
+    "nameLow": "paventhan",
+    "status": "active"
   },
   {
     "serial_number": 75,
@@ -897,7 +971,8 @@
     "street_name": "Maniyakar Street",
     "age": 62,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 76,
@@ -909,7 +984,8 @@
     "street_name": "Maniyakar Street",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "shanmugam"
+    "nameLow": "shanmugam",
+    "status": "active"
   },
   {
     "serial_number": 77,
@@ -921,7 +997,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "gobinathan"
+    "nameLow": "gobinathan",
+    "status": "active"
   },
   {
     "serial_number": 78,
@@ -933,7 +1010,8 @@
     "street_name": "Maniyakar Street",
     "age": 55,
     "gender": "Male / ஆண்",
-    "nameLow": "kirubakaran"
+    "nameLow": "kirubakaran",
+    "status": "active"
   },
   {
     "serial_number": 79,
@@ -945,7 +1023,8 @@
     "street_name": "Maniyakar Street",
     "age": 54,
     "gender": "Female / பெண்",
-    "nameLow": "revathy"
+    "nameLow": "revathy",
+    "status": "active"
   },
   {
     "serial_number": 80,
@@ -957,7 +1036,8 @@
     "street_name": "Maniyakar Street",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "kumar"
+    "nameLow": "kumar",
+    "status": "active"
   },
   {
     "serial_number": 81,
@@ -969,7 +1049,8 @@
     "street_name": "Maniyakar Street",
     "age": 49,
     "gender": "Male / ஆண்",
-    "nameLow": "sivaraman"
+    "nameLow": "sivaraman",
+    "status": "active"
   },
   {
     "serial_number": 82,
@@ -981,7 +1062,8 @@
     "street_name": "Maniyakar Street",
     "age": 45,
     "gender": "Male / ஆண்",
-    "nameLow": "balamurugan"
+    "nameLow": "balamurugan",
+    "status": "active"
   },
   {
     "serial_number": 83,
@@ -993,7 +1075,8 @@
     "street_name": "Maniyakar Street",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "kalpana"
+    "nameLow": "kalpana",
+    "status": "active"
   },
   {
     "serial_number": 84,
@@ -1005,7 +1088,8 @@
     "street_name": "Maniyakar Street",
     "age": 75,
     "gender": "Male / ஆண்",
-    "nameLow": "ramamoorthy"
+    "nameLow": "ramamoorthy",
+    "status": "active"
   },
   {
     "serial_number": 85,
@@ -1017,7 +1101,8 @@
     "street_name": "Maniyakar Street",
     "age": 66,
     "gender": "Female / பெண்",
-    "nameLow": "llamathi"
+    "nameLow": "llamathi",
+    "status": "active"
   },
   {
     "serial_number": 86,
@@ -1029,7 +1114,8 @@
     "street_name": "Maniyakar Street",
     "age": 59,
     "gender": "Male / ஆண்",
-    "nameLow": "thirumal"
+    "nameLow": "thirumal",
+    "status": "active"
   },
   {
     "serial_number": 87,
@@ -1041,7 +1127,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "manikandan"
+    "nameLow": "manikandan",
+    "status": "active"
   },
   {
     "serial_number": 88,
@@ -1053,7 +1140,8 @@
     "street_name": "Maniyakar Street",
     "age": 34,
     "gender": "Male / ஆண்",
-    "nameLow": "sabarish"
+    "nameLow": "sabarish",
+    "status": "active"
   },
   {
     "serial_number": 89,
@@ -1065,7 +1153,8 @@
     "street_name": "Maniyakar Street",
     "age": 78,
     "gender": "Male / ஆண்",
-    "nameLow": "ramalingam"
+    "nameLow": "ramalingam",
+    "status": "active"
   },
   {
     "serial_number": 90,
@@ -1077,7 +1166,8 @@
     "street_name": "Maniyakar Street",
     "age": 72,
     "gender": "Female / பெண்",
-    "nameLow": "sulosana"
+    "nameLow": "sulosana",
+    "status": "active"
   },
   {
     "serial_number": 91,
@@ -1089,7 +1179,8 @@
     "street_name": "Maniyakar Street",
     "age": 70,
     "gender": "Female / பெண்",
-    "nameLow": "parvathi"
+    "nameLow": "parvathi",
+    "status": "active"
   },
   {
     "serial_number": 92,
@@ -1101,7 +1192,8 @@
     "street_name": "Maniyakar Street",
     "age": 51,
     "gender": "Male / ஆண்",
-    "nameLow": "prabhakaran"
+    "nameLow": "prabhakaran",
+    "status": "active"
   },
   {
     "serial_number": 93,
@@ -1113,7 +1205,8 @@
     "street_name": "Maniyakar Street",
     "age": 49,
     "gender": "Male / ஆண்",
-    "nameLow": "panchatcharam"
+    "nameLow": "panchatcharam",
+    "status": "active"
   },
   {
     "serial_number": 94,
@@ -1125,7 +1218,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "dhanalakshmi"
+    "nameLow": "dhanalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 95,
@@ -1137,7 +1231,8 @@
     "street_name": "Maniyakar Street",
     "age": 34,
     "gender": "Female / பெண்",
-    "nameLow": "buvaneshwari"
+    "nameLow": "buvaneshwari",
+    "status": "active"
   },
   {
     "serial_number": 96,
@@ -1149,7 +1244,8 @@
     "street_name": "Maniyakar Street",
     "age": 51,
     "gender": "Female / பெண்",
-    "nameLow": "alamelu"
+    "nameLow": "alamelu",
+    "status": "active"
   },
   {
     "serial_number": 97,
@@ -1161,7 +1257,8 @@
     "street_name": "Maniyakar Street",
     "age": 43,
     "gender": "Female / பெண்",
-    "nameLow": "jamuna"
+    "nameLow": "jamuna",
+    "status": "active"
   },
   {
     "serial_number": 98,
@@ -1173,7 +1270,8 @@
     "street_name": "Maniyakar Street",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "arumugam"
+    "nameLow": "arumugam",
+    "status": "active"
   },
   {
     "serial_number": 99,
@@ -1185,7 +1283,8 @@
     "street_name": "Maniyakar Street",
     "age": 23,
     "gender": "Female / பெண்",
-    "nameLow": "arthi"
+    "nameLow": "arthi",
+    "status": "active"
   },
   {
     "serial_number": 100,
@@ -1197,7 +1296,8 @@
     "street_name": "Maniyakar Street",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "santhakumari"
+    "nameLow": "santhakumari",
+    "status": "active"
   },
   {
     "serial_number": 101,
@@ -1209,7 +1309,8 @@
     "street_name": "Maniyakar Street",
     "age": 31,
     "gender": "Female / பெண்",
-    "nameLow": "shalini"
+    "nameLow": "shalini",
+    "status": "active"
   },
   {
     "serial_number": 102,
@@ -1221,7 +1322,8 @@
     "street_name": "Maniyakar Street",
     "age": 33,
     "gender": "Male / ஆண்",
-    "nameLow": "murugan"
+    "nameLow": "murugan",
+    "status": "active"
   },
   {
     "serial_number": 103,
@@ -1233,7 +1335,8 @@
     "street_name": "Maniyakar Street",
     "age": 30,
     "gender": "Female / பெண்",
-    "nameLow": "jayapriya"
+    "nameLow": "jayapriya",
+    "status": "active"
   },
   {
     "serial_number": 104,
@@ -1245,7 +1348,8 @@
     "street_name": "Maniyakar Street",
     "age": 57,
     "gender": "Female / பெண்",
-    "nameLow": "andal"
+    "nameLow": "andal",
+    "status": "active"
   },
   {
     "serial_number": 105,
@@ -1257,7 +1361,8 @@
     "street_name": "Maniyakar Street",
     "age": 30,
     "gender": "Female / பெண்",
-    "nameLow": "sivaranjini"
+    "nameLow": "sivaranjini",
+    "status": "active"
   },
   {
     "serial_number": 106,
@@ -1269,7 +1374,8 @@
     "street_name": "Maniyakar Street",
     "age": 78,
     "gender": "Female / பெண்",
-    "nameLow": "amsavalli"
+    "nameLow": "amsavalli",
+    "status": "active"
   },
   {
     "serial_number": 107,
@@ -1281,7 +1387,8 @@
     "street_name": "Maniyakar Street",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "arunachalam"
+    "nameLow": "arunachalam",
+    "status": "active"
   },
   {
     "serial_number": 108,
@@ -1293,7 +1400,8 @@
     "street_name": "Maniyakar Street",
     "age": 49,
     "gender": "Male / ஆண்",
-    "nameLow": "mani"
+    "nameLow": "mani",
+    "status": "active"
   },
   {
     "serial_number": 109,
@@ -1305,7 +1413,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "kandasamy"
+    "nameLow": "kandasamy",
+    "status": "active"
   },
   {
     "serial_number": 110,
@@ -1317,7 +1426,8 @@
     "street_name": "Maniyakar Street",
     "age": 68,
     "gender": "Female / பெண்",
-    "nameLow": "kasthuri"
+    "nameLow": "kasthuri",
+    "status": "active"
   },
   {
     "serial_number": 111,
@@ -1329,7 +1439,8 @@
     "street_name": "Maniyakar Street",
     "age": 47,
     "gender": "Male / ஆண்",
-    "nameLow": "dhivakaran"
+    "nameLow": "dhivakaran",
+    "status": "active"
   },
   {
     "serial_number": 112,
@@ -1341,7 +1452,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "balamurugan"
+    "nameLow": "balamurugan",
+    "status": "active"
   },
   {
     "serial_number": 113,
@@ -1353,7 +1465,8 @@
     "street_name": "Maniyakar Street",
     "age": 86,
     "gender": "Female / பெண்",
-    "nameLow": "ranganayagi"
+    "nameLow": "ranganayagi",
+    "status": "active"
   },
   {
     "serial_number": 114,
@@ -1365,7 +1478,8 @@
     "street_name": "Maniyakar Street",
     "age": 61,
     "gender": "Male / ஆண்",
-    "nameLow": "dhayalamurthy"
+    "nameLow": "dhayalamurthy",
+    "status": "active"
   },
   {
     "serial_number": 115,
@@ -1377,7 +1491,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "vijayalakshmi"
+    "nameLow": "vijayalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 116,
@@ -1389,7 +1504,8 @@
     "street_name": "Maniyakar Street",
     "age": 73,
     "gender": "Male / ஆண்",
-    "nameLow": "dhanusu"
+    "nameLow": "dhanusu",
+    "status": "active"
   },
   {
     "serial_number": 117,
@@ -1401,7 +1517,8 @@
     "street_name": "Maniyakar Street",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "karvanann"
+    "nameLow": "karvanann",
+    "status": "active"
   },
   {
     "serial_number": 118,
@@ -1413,7 +1530,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "valli"
+    "nameLow": "valli",
+    "status": "active"
   },
   {
     "serial_number": 119,
@@ -1425,7 +1543,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "muthukumaran"
+    "nameLow": "muthukumaran",
+    "status": "active"
   },
   {
     "serial_number": 120,
@@ -1437,7 +1556,8 @@
     "street_name": "Maniyakar Street",
     "age": 32,
     "gender": "Male / ஆண்",
-    "nameLow": "arunkumar"
+    "nameLow": "arunkumar",
+    "status": "active"
   },
   {
     "serial_number": 121,
@@ -1449,7 +1569,8 @@
     "street_name": "Maniyakar Street",
     "age": 61,
     "gender": "Male / ஆண்",
-    "nameLow": "rajasekaran"
+    "nameLow": "rajasekaran",
+    "status": "active"
   },
   {
     "serial_number": 122,
@@ -1461,7 +1582,8 @@
     "street_name": "Maniyakar Street",
     "age": 61,
     "gender": "Male / ஆண்",
-    "nameLow": "shanmugam"
+    "nameLow": "shanmugam",
+    "status": "active"
   },
   {
     "serial_number": 123,
@@ -1473,7 +1595,8 @@
     "street_name": "Maniyakar Street",
     "age": 47,
     "gender": "Female / பெண்",
-    "nameLow": "sujatha"
+    "nameLow": "sujatha",
+    "status": "active"
   },
   {
     "serial_number": 124,
@@ -1485,7 +1608,8 @@
     "street_name": "Maniyakar Street",
     "age": 43,
     "gender": "Female / பெண்",
-    "nameLow": "vijayalakshmi"
+    "nameLow": "vijayalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 125,
@@ -1497,7 +1621,8 @@
     "street_name": "Maniyakar Street",
     "age": 74,
     "gender": "Female / பெண்",
-    "nameLow": "ramayi"
+    "nameLow": "ramayi",
+    "status": "active"
   },
   {
     "serial_number": 126,
@@ -1509,7 +1634,8 @@
     "street_name": "Maniyakar Street",
     "age": 52,
     "gender": "Female / பெண்",
-    "nameLow": "kuppammal"
+    "nameLow": "kuppammal",
+    "status": "active"
   },
   {
     "serial_number": 127,
@@ -1521,7 +1647,8 @@
     "street_name": "Maniyakar Street",
     "age": 30,
     "gender": "Male / ஆண்",
-    "nameLow": "vengatesan"
+    "nameLow": "vengatesan",
+    "status": "active"
   },
   {
     "serial_number": 128,
@@ -1533,7 +1660,8 @@
     "street_name": "Maniyakar Street",
     "age": 69,
     "gender": "Female / பெண்",
-    "nameLow": "aavaniyammal"
+    "nameLow": "aavaniyammal",
+    "status": "active"
   },
   {
     "serial_number": 129,
@@ -1545,7 +1673,8 @@
     "street_name": "Maniyakar Street",
     "age": 48,
     "gender": "Male / ஆண்",
-    "nameLow": "madhiyazhagan"
+    "nameLow": "madhiyazhagan",
+    "status": "active"
   },
   {
     "serial_number": 130,
@@ -1557,7 +1686,8 @@
     "street_name": "Maniyakar Street",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "priya"
+    "nameLow": "priya",
+    "status": "active"
   },
   {
     "serial_number": 131,
@@ -1569,7 +1699,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "kuppan"
+    "nameLow": "kuppan",
+    "status": "active"
   },
   {
     "serial_number": 132,
@@ -1581,7 +1712,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "maheswaran"
+    "nameLow": "maheswaran",
+    "status": "active"
   },
   {
     "serial_number": 133,
@@ -1593,7 +1725,8 @@
     "street_name": "Maniyakar Street",
     "age": 75,
     "gender": "Female / பெண்",
-    "nameLow": "pavunu"
+    "nameLow": "pavunu",
+    "status": "active"
   },
   {
     "serial_number": 134,
@@ -1605,7 +1738,8 @@
     "street_name": "Maniyakar Street",
     "age": 53,
     "gender": "Female / பெண்",
-    "nameLow": "anjalai"
+    "nameLow": "anjalai",
+    "status": "active"
   },
   {
     "serial_number": 135,
@@ -1617,7 +1751,8 @@
     "street_name": "Maniyakar Street",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "venkatramanan"
+    "nameLow": "venkatramanan",
+    "status": "active"
   },
   {
     "serial_number": 136,
@@ -1629,7 +1764,8 @@
     "street_name": "Maniyakar Street",
     "age": 26,
     "gender": "Female / பெண்",
-    "nameLow": "gomathi"
+    "nameLow": "gomathi",
+    "status": "active"
   },
   {
     "serial_number": 137,
@@ -1641,7 +1777,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "logeshwari"
+    "nameLow": "logeshwari",
+    "status": "active"
   },
   {
     "serial_number": 138,
@@ -1653,7 +1790,8 @@
     "street_name": "Maniyakar Street",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "sudha"
+    "nameLow": "sudha",
+    "status": "active"
   },
   {
     "serial_number": 139,
@@ -1665,7 +1803,8 @@
     "street_name": "Maniyakar Street",
     "age": 30,
     "gender": "Male / ஆண்",
-    "nameLow": "sivamurugan"
+    "nameLow": "sivamurugan",
+    "status": "active"
   },
   {
     "serial_number": 140,
@@ -1677,7 +1816,8 @@
     "street_name": "Maniyakar Street",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "neelambal"
+    "nameLow": "neelambal",
+    "status": "active"
   },
   {
     "serial_number": 141,
@@ -1689,7 +1829,8 @@
     "street_name": "Maniyakar Street",
     "age": 37,
     "gender": "Male / ஆண்",
-    "nameLow": "suresh"
+    "nameLow": "suresh",
+    "status": "active"
   },
   {
     "serial_number": 142,
@@ -1701,7 +1842,8 @@
     "street_name": "Maniyakar Street",
     "age": 22,
     "gender": "Male / ஆண்",
-    "nameLow": "sakthikumar p"
+    "nameLow": "sakthikumar p",
+    "status": "active"
   },
   {
     "serial_number": 143,
@@ -1713,7 +1855,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "devakumar"
+    "nameLow": "devakumar",
+    "status": "active"
   },
   {
     "serial_number": 144,
@@ -1725,7 +1868,8 @@
     "street_name": "Maniyakar Street",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "saranya"
+    "nameLow": "saranya",
+    "status": "active"
   },
   {
     "serial_number": 145,
@@ -1737,7 +1881,8 @@
     "street_name": "Maniyakar Street",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "murugadas"
+    "nameLow": "murugadas",
+    "status": "active"
   },
   {
     "serial_number": 146,
@@ -1749,7 +1894,8 @@
     "street_name": "Maniyakar Street",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "geetha"
+    "nameLow": "geetha",
+    "status": "active"
   },
   {
     "serial_number": 147,
@@ -1761,7 +1907,8 @@
     "street_name": "Maniyakar Street",
     "age": 33,
     "gender": "Male / ஆண்",
-    "nameLow": "karthik"
+    "nameLow": "karthik",
+    "status": "active"
   },
   {
     "serial_number": 148,
@@ -1773,7 +1920,8 @@
     "street_name": "Maniyakar Street",
     "age": 30,
     "gender": "Male / ஆண்",
-    "nameLow": "dinesh"
+    "nameLow": "dinesh",
+    "status": "active"
   },
   {
     "serial_number": 149,
@@ -1785,7 +1933,8 @@
     "street_name": "Maniyakar Street",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "akash murugadass"
+    "nameLow": "akash murugadass",
+    "status": "active"
   },
   {
     "serial_number": 150,
@@ -1797,7 +1946,8 @@
     "street_name": "Maniyakar Street",
     "age": 27,
     "gender": "Female / பெண்",
-    "nameLow": "bhuvaneswari"
+    "nameLow": "bhuvaneswari",
+    "status": "active"
   },
   {
     "serial_number": 151,
@@ -1809,7 +1959,8 @@
     "street_name": "Maniyakar Street",
     "age": 22,
     "gender": "Female / பெண்",
-    "nameLow": "vanitha"
+    "nameLow": "vanitha",
+    "status": "active"
   },
   {
     "serial_number": 152,
@@ -1821,7 +1972,8 @@
     "street_name": "Maniyakar Street",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "nesha"
+    "nameLow": "nesha",
+    "status": "active"
   },
   {
     "serial_number": 153,
@@ -1833,7 +1985,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "rajarajeswari"
+    "nameLow": "rajarajeswari",
+    "status": "active"
   },
   {
     "serial_number": 154,
@@ -1845,7 +1998,8 @@
     "street_name": "Maniyakar Street",
     "age": 32,
     "gender": "Female / பெண்",
-    "nameLow": "logammal"
+    "nameLow": "logammal",
+    "status": "active"
   },
   {
     "serial_number": 155,
@@ -1857,7 +2011,8 @@
     "street_name": "Maniyakar Street",
     "age": 38,
     "gender": "Male / ஆண்",
-    "nameLow": "ramesh"
+    "nameLow": "ramesh",
+    "status": "active"
   },
   {
     "serial_number": 156,
@@ -1869,7 +2024,8 @@
     "street_name": "Maniyakar Street",
     "age": 34,
     "gender": "Female / பெண்",
-    "nameLow": "sangeetha"
+    "nameLow": "sangeetha",
+    "status": "active"
   },
   {
     "serial_number": 157,
@@ -1881,7 +2037,8 @@
     "street_name": "Maniyakar Street",
     "age": 31,
     "gender": "Female / பெண்",
-    "nameLow": "avaniyammal"
+    "nameLow": "avaniyammal",
+    "status": "active"
   },
   {
     "serial_number": 158,
@@ -1893,7 +2050,8 @@
     "street_name": "Maniyakar Street",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "magendiran"
+    "nameLow": "magendiran",
+    "status": "active"
   },
   {
     "serial_number": 159,
@@ -1905,7 +2063,8 @@
     "street_name": "Maniyakar Street",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "keerthana"
+    "nameLow": "keerthana",
+    "status": "active"
   },
   {
     "serial_number": 160,
@@ -1917,7 +2076,8 @@
     "street_name": "Maniyakar Street",
     "age": 66,
     "gender": "Male / ஆண்",
-    "nameLow": "jayabal s"
+    "nameLow": "jayabal s",
+    "status": "active"
   },
   {
     "serial_number": 161,
@@ -1929,7 +2089,8 @@
     "street_name": "Maniyakar Street",
     "age": 60,
     "gender": "Female / பெண்",
-    "nameLow": "devaki j"
+    "nameLow": "devaki j",
+    "status": "active"
   },
   {
     "serial_number": 162,
@@ -1941,7 +2102,8 @@
     "street_name": "Maniyakar Street",
     "age": 33,
     "gender": "Female / பெண்",
-    "nameLow": "divyabarathi"
+    "nameLow": "divyabarathi",
+    "status": "active"
   },
   {
     "serial_number": 163,
@@ -1953,7 +2115,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "devanathan r ravichanthiran"
+    "nameLow": "devanathan r ravichanthiran",
+    "status": "active"
   },
   {
     "serial_number": 164,
@@ -1965,7 +2128,8 @@
     "street_name": "Maniyakar Street",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "brindhavathi"
+    "nameLow": "brindhavathi",
+    "status": "active"
   },
   {
     "serial_number": 165,
@@ -1977,7 +2141,8 @@
     "street_name": "Maniyakar Street",
     "age": 32,
     "gender": "Female / பெண்",
-    "nameLow": "latha"
+    "nameLow": "latha",
+    "status": "active"
   },
   {
     "serial_number": 166,
@@ -1989,7 +2154,8 @@
     "street_name": "Maniyakar Street",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "madhan m"
+    "nameLow": "madhan m",
+    "status": "active"
   },
   {
     "serial_number": 167,
@@ -2001,7 +2167,8 @@
     "street_name": "Maniyakar Street",
     "age": 25,
     "gender": "Female / பெண்",
-    "nameLow": "uma"
+    "nameLow": "uma",
+    "status": "active"
   },
   {
     "serial_number": 168,
@@ -2013,7 +2180,8 @@
     "street_name": "Maniyakar Street",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "buvaneshwari"
+    "nameLow": "buvaneshwari",
+    "status": "active"
   },
   {
     "serial_number": 169,
@@ -2025,7 +2193,8 @@
     "street_name": "Maniyakar Street",
     "age": 25,
     "gender": "Female / பெண்",
-    "nameLow": "poongodi"
+    "nameLow": "poongodi",
+    "status": "active"
   },
   {
     "serial_number": 170,
@@ -2037,7 +2206,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "susi"
+    "nameLow": "susi",
+    "status": "active"
   },
   {
     "serial_number": 171,
@@ -2049,7 +2219,8 @@
     "street_name": "Maniyakar Street",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "parameshwari"
+    "nameLow": "parameshwari",
+    "status": "active"
   },
   {
     "serial_number": 172,
@@ -2061,7 +2232,8 @@
     "street_name": "Maniyakar Street",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "kalaivani"
+    "nameLow": "kalaivani",
+    "status": "active"
   },
   {
     "serial_number": 173,
@@ -2073,7 +2245,8 @@
     "street_name": "Maniyakar Street",
     "age": 26,
     "gender": "Female / பெண்",
-    "nameLow": "anupriya"
+    "nameLow": "anupriya",
+    "status": "active"
   },
   {
     "serial_number": 174,
@@ -2085,7 +2258,8 @@
     "street_name": "South Thoppu",
     "age": 55,
     "gender": "Female / பெண்",
-    "nameLow": "agilandam"
+    "nameLow": "agilandam",
+    "status": "active"
   },
   {
     "serial_number": 175,
@@ -2097,7 +2271,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "nagamuthu"
+    "nameLow": "nagamuthu",
+    "status": "active"
   },
   {
     "serial_number": 176,
@@ -2109,7 +2284,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "nagammal"
+    "nameLow": "nagammal",
+    "status": "active"
   },
   {
     "serial_number": 177,
@@ -2121,7 +2297,8 @@
     "street_name": "South Thoppu",
     "age": 26,
     "gender": "Female / பெண்",
-    "nameLow": "yeshvaran"
+    "nameLow": "yeshvaran",
+    "status": "active"
   },
   {
     "serial_number": 178,
@@ -2133,7 +2310,8 @@
     "street_name": "South Thoppu",
     "age": 26,
     "gender": "Female / பெண்",
-    "nameLow": "meenatchi"
+    "nameLow": "meenatchi",
+    "status": "active"
   },
   {
     "serial_number": 179,
@@ -2145,7 +2323,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Male / ஆண்",
-    "nameLow": "hariharan"
+    "nameLow": "hariharan",
+    "status": "active"
   },
   {
     "serial_number": 180,
@@ -2157,7 +2336,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Female / பெண்",
-    "nameLow": "muniyammal"
+    "nameLow": "muniyammal",
+    "status": "active"
   },
   {
     "serial_number": 181,
@@ -2169,7 +2349,8 @@
     "street_name": "South Thoppu",
     "age": 22,
     "gender": "Female / பெண்",
-    "nameLow": "anjalai"
+    "nameLow": "anjalai",
+    "status": "active"
   },
   {
     "serial_number": 182,
@@ -2181,7 +2362,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "rajavelu"
+    "nameLow": "rajavelu",
+    "status": "active"
   },
   {
     "serial_number": 183,
@@ -2193,7 +2375,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "kathiresan"
+    "nameLow": "kathiresan",
+    "status": "active"
   },
   {
     "serial_number": 184,
@@ -2205,7 +2388,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Female / பெண்",
-    "nameLow": "pachammal"
+    "nameLow": "pachammal",
+    "status": "active"
   },
   {
     "serial_number": 185,
@@ -2217,7 +2401,8 @@
     "street_name": "South Thoppu",
     "age": 25,
     "gender": "Female / பெண்",
-    "nameLow": "ramya"
+    "nameLow": "ramya",
+    "status": "active"
   },
   {
     "serial_number": 186,
@@ -2229,7 +2414,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Female / பெண்",
-    "nameLow": "selvi"
+    "nameLow": "selvi",
+    "status": "active"
   },
   {
     "serial_number": 187,
@@ -2241,7 +2427,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "nisha"
+    "nameLow": "nisha",
+    "status": "active"
   },
   {
     "serial_number": 188,
@@ -2253,7 +2440,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "arjunan"
+    "nameLow": "arjunan",
+    "status": "active"
   },
   {
     "serial_number": 189,
@@ -2265,7 +2453,8 @@
     "street_name": "South Thoppu",
     "age": 68,
     "gender": "Female / பெண்",
-    "nameLow": "muniyamal"
+    "nameLow": "muniyamal",
+    "status": "active"
   },
   {
     "serial_number": 190,
@@ -2277,7 +2466,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "sornambal"
+    "nameLow": "sornambal",
+    "status": "active"
   },
   {
     "serial_number": 191,
@@ -2289,7 +2479,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "lathika"
+    "nameLow": "lathika",
+    "status": "active"
   },
   {
     "serial_number": 192,
@@ -2301,7 +2492,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Male / ஆண்",
-    "nameLow": "jeeva"
+    "nameLow": "jeeva",
+    "status": "active"
   },
   {
     "serial_number": 193,
@@ -2313,7 +2505,8 @@
     "street_name": "South Thoppu",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "rajeshwari"
+    "nameLow": "rajeshwari",
+    "status": "active"
   },
   {
     "serial_number": 194,
@@ -2325,7 +2518,8 @@
     "street_name": "South Thoppu",
     "age": 47,
     "gender": "Male / ஆண்",
-    "nameLow": "muthukrishnan"
+    "nameLow": "muthukrishnan",
+    "status": "active"
   },
   {
     "serial_number": 195,
@@ -2337,7 +2531,8 @@
     "street_name": "South Thoppu",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "chitra"
+    "nameLow": "chitra",
+    "status": "active"
   },
   {
     "serial_number": 196,
@@ -2349,7 +2544,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Male / ஆண்",
-    "nameLow": "ashok"
+    "nameLow": "ashok",
+    "status": "active"
   },
   {
     "serial_number": 197,
@@ -2361,7 +2557,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "jothimani"
+    "nameLow": "jothimani",
+    "status": "active"
   },
   {
     "serial_number": 198,
@@ -2373,7 +2570,8 @@
     "street_name": "South Thoppu",
     "age": 48,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 199,
@@ -2385,7 +2583,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "nandhakumar"
+    "nameLow": "nandhakumar",
+    "status": "active"
   },
   {
     "serial_number": 200,
@@ -2397,7 +2596,8 @@
     "street_name": "South Thoppu",
     "age": 32,
     "gender": "Female / பெண்",
-    "nameLow": "parameshwari"
+    "nameLow": "parameshwari",
+    "status": "active"
   },
   {
     "serial_number": 201,
@@ -2409,7 +2609,8 @@
     "street_name": "South Thoppu",
     "age": 22,
     "gender": "Female / பெண்",
-    "nameLow": "nivetha d"
+    "nameLow": "nivetha d",
+    "status": "active"
   },
   {
     "serial_number": 202,
@@ -2421,7 +2622,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "subathra d"
+    "nameLow": "subathra d",
+    "status": "active"
   },
   {
     "serial_number": 203,
@@ -2433,7 +2635,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Male / ஆண்",
-    "nameLow": "s padmanathan"
+    "nameLow": "s padmanathan",
+    "status": "active"
   },
   {
     "serial_number": 204,
@@ -2445,7 +2648,8 @@
     "street_name": "South Thoppu",
     "age": 55,
     "gender": "Male / ஆண்",
-    "nameLow": "manikkam"
+    "nameLow": "manikkam",
+    "status": "active"
   },
   {
     "serial_number": 205,
@@ -2457,7 +2661,8 @@
     "street_name": "South Thoppu",
     "age": 50,
     "gender": "Female / பெண்",
-    "nameLow": "supathra"
+    "nameLow": "supathra",
+    "status": "active"
   },
   {
     "serial_number": 206,
@@ -2469,7 +2674,8 @@
     "street_name": "South Thoppu",
     "age": 73,
     "gender": "Female / பெண்",
-    "nameLow": "navaneetham"
+    "nameLow": "navaneetham",
+    "status": "active"
   },
   {
     "serial_number": 207,
@@ -2481,7 +2687,8 @@
     "street_name": "South Thoppu",
     "age": 50,
     "gender": "Female / பெண்",
-    "nameLow": "selvi"
+    "nameLow": "selvi",
+    "status": "active"
   },
   {
     "serial_number": 208,
@@ -2493,7 +2700,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Female / பெண்",
-    "nameLow": "rajeswari"
+    "nameLow": "rajeswari",
+    "status": "active"
   },
   {
     "serial_number": 209,
@@ -2505,7 +2713,8 @@
     "street_name": "South Thoppu",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "vasanthi"
+    "nameLow": "vasanthi",
+    "status": "active"
   },
   {
     "serial_number": 210,
@@ -2517,7 +2726,8 @@
     "street_name": "South Thoppu",
     "age": 63,
     "gender": "Male / ஆண்",
-    "nameLow": "kuppusamy"
+    "nameLow": "kuppusamy",
+    "status": "active"
   },
   {
     "serial_number": 211,
@@ -2529,7 +2739,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Male / ஆண்",
-    "nameLow": "muthu"
+    "nameLow": "muthu",
+    "status": "active"
   },
   {
     "serial_number": 212,
@@ -2541,7 +2752,8 @@
     "street_name": "South Thoppu",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "chithra"
+    "nameLow": "chithra",
+    "status": "active"
   },
   {
     "serial_number": 213,
@@ -2553,7 +2765,8 @@
     "street_name": "South Thoppu",
     "age": 33,
     "gender": "Male / ஆண்",
-    "nameLow": "ramamoorthi"
+    "nameLow": "ramamoorthi",
+    "status": "active"
   },
   {
     "serial_number": 214,
@@ -2565,7 +2778,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "anitha"
+    "nameLow": "anitha",
+    "status": "active"
   },
   {
     "serial_number": 215,
@@ -2577,7 +2791,8 @@
     "street_name": "South Thoppu",
     "age": 73,
     "gender": "Female / பெண்",
-    "nameLow": "sarasu"
+    "nameLow": "sarasu",
+    "status": "active"
   },
   {
     "serial_number": 216,
@@ -2589,7 +2804,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Male / ஆண்",
-    "nameLow": "balasubramani"
+    "nameLow": "balasubramani",
+    "status": "active"
   },
   {
     "serial_number": 217,
@@ -2601,7 +2817,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "nithya"
+    "nameLow": "nithya",
+    "status": "active"
   },
   {
     "serial_number": 218,
@@ -2613,7 +2830,8 @@
     "street_name": "South Thoppu",
     "age": 25,
     "gender": "Male / ஆண்",
-    "nameLow": "poovarasan"
+    "nameLow": "poovarasan",
+    "status": "active"
   },
   {
     "serial_number": 219,
@@ -2625,7 +2843,8 @@
     "street_name": "South Thoppu",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "veeramani"
+    "nameLow": "veeramani",
+    "status": "active"
   },
   {
     "serial_number": 220,
@@ -2637,7 +2856,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "thinakaran"
+    "nameLow": "thinakaran",
+    "status": "active"
   },
   {
     "serial_number": 221,
@@ -2649,7 +2869,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "looganayaki"
+    "nameLow": "looganayaki",
+    "status": "active"
   },
   {
     "serial_number": 222,
@@ -2661,7 +2882,8 @@
     "street_name": "South Thoppu",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "aruljothi"
+    "nameLow": "aruljothi",
+    "status": "active"
   },
   {
     "serial_number": 223,
@@ -2673,7 +2895,8 @@
     "street_name": "South Thoppu",
     "age": 48,
     "gender": "Female / பெண்",
-    "nameLow": "kasthiri"
+    "nameLow": "kasthiri",
+    "status": "active"
   },
   {
     "serial_number": 224,
@@ -2685,7 +2908,8 @@
     "street_name": "South Thoppu",
     "age": 26,
     "gender": "Male / ஆண்",
-    "nameLow": "karthikeyan"
+    "nameLow": "karthikeyan",
+    "status": "active"
   },
   {
     "serial_number": 225,
@@ -2697,7 +2921,8 @@
     "street_name": "South Thoppu",
     "age": 25,
     "gender": "Female / பெண்",
-    "nameLow": "kalaivani"
+    "nameLow": "kalaivani",
+    "status": "active"
   },
   {
     "serial_number": 226,
@@ -2709,7 +2934,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Male / ஆண்",
-    "nameLow": "kathiravan"
+    "nameLow": "kathiravan",
+    "status": "active"
   },
   {
     "serial_number": 227,
@@ -2721,7 +2947,8 @@
     "street_name": "South Thoppu",
     "age": 34,
     "gender": "Male / ஆண்",
-    "nameLow": "dhanamoorthy"
+    "nameLow": "dhanamoorthy",
+    "status": "active"
   },
   {
     "serial_number": 228,
@@ -2733,7 +2960,8 @@
     "street_name": "South Thoppu",
     "age": 32,
     "gender": "Female / பெண்",
-    "nameLow": "priya"
+    "nameLow": "priya",
+    "status": "active"
   },
   {
     "serial_number": 229,
@@ -2745,7 +2973,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "suresh"
+    "nameLow": "suresh",
+    "status": "active"
   },
   {
     "serial_number": 230,
@@ -2757,7 +2986,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Female / பெண்",
-    "nameLow": "dhanalakshmi"
+    "nameLow": "dhanalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 231,
@@ -2769,7 +2999,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "ramesh"
+    "nameLow": "ramesh",
+    "status": "active"
   },
   {
     "serial_number": 232,
@@ -2781,7 +3012,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Male / ஆண்",
-    "nameLow": "jagadeshwaran"
+    "nameLow": "jagadeshwaran",
+    "status": "active"
   },
   {
     "serial_number": 233,
@@ -2793,7 +3025,8 @@
     "street_name": "South Thoppu",
     "age": 28,
     "gender": "Male / ஆண்",
-    "nameLow": "arunkumar"
+    "nameLow": "arunkumar",
+    "status": "active"
   },
   {
     "serial_number": 234,
@@ -2805,7 +3038,8 @@
     "street_name": "South Thoppu",
     "age": 28,
     "gender": "Female / பெண்",
-    "nameLow": "vidhya"
+    "nameLow": "vidhya",
+    "status": "active"
   },
   {
     "serial_number": 235,
@@ -2817,7 +3051,8 @@
     "street_name": "South Thoppu",
     "age": 26,
     "gender": "Male / ஆண்",
-    "nameLow": "manikavel"
+    "nameLow": "manikavel",
+    "status": "active"
   },
   {
     "serial_number": 236,
@@ -2829,7 +3064,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "gananavalli"
+    "nameLow": "gananavalli",
+    "status": "active"
   },
   {
     "serial_number": 237,
@@ -2841,7 +3077,8 @@
     "street_name": "South Thoppu",
     "age": 45,
     "gender": "Male / ஆண்",
-    "nameLow": "jayakanthan"
+    "nameLow": "jayakanthan",
+    "status": "active"
   },
   {
     "serial_number": 238,
@@ -2853,7 +3090,8 @@
     "street_name": "South Thoppu",
     "age": 35,
     "gender": "Female / பெண்",
-    "nameLow": "maheswari"
+    "nameLow": "maheswari",
+    "status": "active"
   },
   {
     "serial_number": 239,
@@ -2865,7 +3103,8 @@
     "street_name": "South Thoppu",
     "age": 45,
     "gender": "Male / ஆண்",
-    "nameLow": "balamurugan"
+    "nameLow": "balamurugan",
+    "status": "active"
   },
   {
     "serial_number": 240,
@@ -2877,7 +3116,8 @@
     "street_name": "South Thoppu",
     "age": 63,
     "gender": "Male / ஆண்",
-    "nameLow": "jothi"
+    "nameLow": "jothi",
+    "status": "active"
   },
   {
     "serial_number": 241,
@@ -2889,7 +3129,8 @@
     "street_name": "South Thoppu",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "shantha"
+    "nameLow": "shantha",
+    "status": "active"
   },
   {
     "serial_number": 242,
@@ -2901,7 +3142,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Female / பெண்",
-    "nameLow": "kanchana"
+    "nameLow": "kanchana",
+    "status": "active"
   },
   {
     "serial_number": 243,
@@ -2913,7 +3155,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "murugan"
+    "nameLow": "murugan",
+    "status": "active"
   },
   {
     "serial_number": 244,
@@ -2925,7 +3168,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "manimala"
+    "nameLow": "manimala",
+    "status": "active"
   },
   {
     "serial_number": 245,
@@ -2937,7 +3181,8 @@
     "street_name": "South Thoppu",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "anitha"
+    "nameLow": "anitha",
+    "status": "active"
   },
   {
     "serial_number": 246,
@@ -2949,7 +3194,8 @@
     "street_name": "South Thoppu",
     "age": 33,
     "gender": "Male / ஆண்",
-    "nameLow": "prathap"
+    "nameLow": "prathap",
+    "status": "active"
   },
   {
     "serial_number": 247,
@@ -2961,7 +3207,8 @@
     "street_name": "South Thoppu",
     "age": 63,
     "gender": "Female / பெண்",
-    "nameLow": "lalitha"
+    "nameLow": "lalitha",
+    "status": "active"
   },
   {
     "serial_number": 248,
@@ -2973,7 +3220,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Male / ஆண்",
-    "nameLow": "sarathbabu"
+    "nameLow": "sarathbabu",
+    "status": "active"
   },
   {
     "serial_number": 249,
@@ -2985,7 +3233,8 @@
     "street_name": "South Thoppu",
     "age": 61,
     "gender": "Male / ஆண்",
-    "nameLow": "krishnamoorthy"
+    "nameLow": "krishnamoorthy",
+    "status": "active"
   },
   {
     "serial_number": 250,
@@ -2997,7 +3246,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "muthukumar"
+    "nameLow": "muthukumar",
+    "status": "active"
   },
   {
     "serial_number": 251,
@@ -3009,7 +3259,8 @@
     "street_name": "South Thoppu",
     "age": 37,
     "gender": "Male / ஆண்",
-    "nameLow": "sridharan"
+    "nameLow": "sridharan",
+    "status": "active"
   },
   {
     "serial_number": 252,
@@ -3021,7 +3272,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "murugan"
+    "nameLow": "murugan",
+    "status": "active"
   },
   {
     "serial_number": 253,
@@ -3033,7 +3285,8 @@
     "street_name": "South Thoppu",
     "age": 47,
     "gender": "Male / ஆண்",
-    "nameLow": "kumar"
+    "nameLow": "kumar",
+    "status": "active"
   },
   {
     "serial_number": 254,
@@ -3045,7 +3298,8 @@
     "street_name": "South Thoppu",
     "age": 40,
     "gender": "Male / ஆண்",
-    "nameLow": "padmanaban"
+    "nameLow": "padmanaban",
+    "status": "active"
   },
   {
     "serial_number": 255,
@@ -3057,7 +3311,8 @@
     "street_name": "South Thoppu",
     "age": 27,
     "gender": "Female / பெண்",
-    "nameLow": "arthi"
+    "nameLow": "arthi",
+    "status": "active"
   },
   {
     "serial_number": 256,
@@ -3069,7 +3324,8 @@
     "street_name": "South Thoppu",
     "age": 59,
     "gender": "Female / பெண்",
-    "nameLow": "gowri"
+    "nameLow": "gowri",
+    "status": "active"
   },
   {
     "serial_number": 257,
@@ -3081,7 +3337,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "ramu"
+    "nameLow": "ramu",
+    "status": "active"
   },
   {
     "serial_number": 258,
@@ -3093,7 +3350,8 @@
     "street_name": "South Thoppu",
     "age": 52,
     "gender": "Female / பெண்",
-    "nameLow": "vijaya"
+    "nameLow": "vijaya",
+    "status": "active"
   },
   {
     "serial_number": 259,
@@ -3105,7 +3363,8 @@
     "street_name": "South Thoppu",
     "age": 76,
     "gender": "Female / பெண்",
-    "nameLow": "amaravathi"
+    "nameLow": "amaravathi",
+    "status": "active"
   },
   {
     "serial_number": 260,
@@ -3117,7 +3376,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "saravanan"
+    "nameLow": "saravanan",
+    "status": "active"
   },
   {
     "serial_number": 261,
@@ -3129,7 +3389,8 @@
     "street_name": "South Thoppu",
     "age": 48,
     "gender": "Female / பெண்",
-    "nameLow": "sasi"
+    "nameLow": "sasi",
+    "status": "active"
   },
   {
     "serial_number": 262,
@@ -3141,7 +3402,8 @@
     "street_name": "South Thoppu",
     "age": 58,
     "gender": "Female / பெண்",
-    "nameLow": "gandhimathy"
+    "nameLow": "gandhimathy",
+    "status": "active"
   },
   {
     "serial_number": 263,
@@ -3153,7 +3415,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "saridha"
+    "nameLow": "saridha",
+    "status": "active"
   },
   {
     "serial_number": 264,
@@ -3165,7 +3428,8 @@
     "street_name": "South Thoppu",
     "age": 32,
     "gender": "Female / பெண்",
-    "nameLow": "buvaneswari"
+    "nameLow": "buvaneswari",
+    "status": "active"
   },
   {
     "serial_number": 265,
@@ -3177,7 +3441,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "jagadesh"
+    "nameLow": "jagadesh",
+    "status": "active"
   },
   {
     "serial_number": 266,
@@ -3189,7 +3454,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "jagathiswari"
+    "nameLow": "jagathiswari",
+    "status": "active"
   },
   {
     "serial_number": 267,
@@ -3201,7 +3467,8 @@
     "street_name": "South Thoppu",
     "age": 60,
     "gender": "Female / பெண்",
-    "nameLow": "pushpakala"
+    "nameLow": "pushpakala",
+    "status": "active"
   },
   {
     "serial_number": 268,
@@ -3213,7 +3480,8 @@
     "street_name": "South Thoppu",
     "age": 33,
     "gender": "Female / பெண்",
-    "nameLow": "sangeetha"
+    "nameLow": "sangeetha",
+    "status": "active"
   },
   {
     "serial_number": 269,
@@ -3225,7 +3493,8 @@
     "street_name": "South Thoppu",
     "age": 59,
     "gender": "Female / பெண்",
-    "nameLow": "saritha"
+    "nameLow": "saritha",
+    "status": "active"
   },
   {
     "serial_number": 270,
@@ -3237,7 +3506,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "janarthanam"
+    "nameLow": "janarthanam",
+    "status": "active"
   },
   {
     "serial_number": 271,
@@ -3249,7 +3519,8 @@
     "street_name": "South Thoppu",
     "age": 52,
     "gender": "Female / பெண்",
-    "nameLow": "kanchana"
+    "nameLow": "kanchana",
+    "status": "active"
   },
   {
     "serial_number": 272,
@@ -3261,7 +3532,8 @@
     "street_name": "South Thoppu",
     "age": 45,
     "gender": "Female / பெண்",
-    "nameLow": "kalaimagal"
+    "nameLow": "kalaimagal",
+    "status": "active"
   },
   {
     "serial_number": 273,
@@ -3273,7 +3545,8 @@
     "street_name": "South Thoppu",
     "age": 83,
     "gender": "Female / பெண்",
-    "nameLow": "neelavathy"
+    "nameLow": "neelavathy",
+    "status": "active"
   },
   {
     "serial_number": 274,
@@ -3285,7 +3558,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "sathamoorthy"
+    "nameLow": "sathamoorthy",
+    "status": "active"
   },
   {
     "serial_number": 275,
@@ -3297,7 +3571,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "sekar"
+    "nameLow": "sekar",
+    "status": "active"
   },
   {
     "serial_number": 276,
@@ -3309,7 +3584,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Female / பெண்",
-    "nameLow": "elamathi"
+    "nameLow": "elamathi",
+    "status": "active"
   },
   {
     "serial_number": 277,
@@ -3321,7 +3597,8 @@
     "street_name": "South Thoppu",
     "age": 27,
     "gender": "Female / பெண்",
-    "nameLow": "gowri"
+    "nameLow": "gowri",
+    "status": "active"
   },
   {
     "serial_number": 278,
@@ -3333,7 +3610,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Male / ஆண்",
-    "nameLow": "chakravarthy"
+    "nameLow": "chakravarthy",
+    "status": "active"
   },
   {
     "serial_number": 279,
@@ -3345,7 +3623,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "kumar"
+    "nameLow": "kumar",
+    "status": "active"
   },
   {
     "serial_number": 280,
@@ -3357,7 +3636,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "sasikala"
+    "nameLow": "sasikala",
+    "status": "active"
   },
   {
     "serial_number": 281,
@@ -3369,7 +3649,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "ashokkumar"
+    "nameLow": "ashokkumar",
+    "status": "active"
   },
   {
     "serial_number": 282,
@@ -3381,7 +3662,8 @@
     "street_name": "South Thoppu",
     "age": 28,
     "gender": "Female / பெண்",
-    "nameLow": "valarmathi"
+    "nameLow": "valarmathi",
+    "status": "active"
   },
   {
     "serial_number": 283,
@@ -3393,7 +3675,8 @@
     "street_name": "South Thoppu",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 284,
@@ -3405,7 +3688,8 @@
     "street_name": "South Thoppu",
     "age": 56,
     "gender": "Female / பெண்",
-    "nameLow": "deivanayaki"
+    "nameLow": "deivanayaki",
+    "status": "active"
   },
   {
     "serial_number": 285,
@@ -3417,7 +3701,8 @@
     "street_name": "South Thoppu",
     "age": 22,
     "gender": "Male / ஆண்",
-    "nameLow": "vijayakumar"
+    "nameLow": "vijayakumar",
+    "status": "active"
   },
   {
     "serial_number": 286,
@@ -3429,7 +3714,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "nagamuthu"
+    "nameLow": "nagamuthu",
+    "status": "active"
   },
   {
     "serial_number": 287,
@@ -3441,7 +3727,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "kaviya k"
+    "nameLow": "kaviya k",
+    "status": "active"
   },
   {
     "serial_number": 288,
@@ -3453,7 +3740,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "vignesh"
+    "nameLow": "vignesh",
+    "status": "active"
   },
   {
     "serial_number": 289,
@@ -3465,7 +3753,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Male / ஆண்",
-    "nameLow": "murugan"
+    "nameLow": "murugan",
+    "status": "active"
   },
   {
     "serial_number": 290,
@@ -3477,7 +3766,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Male / ஆண்",
-    "nameLow": "loganathan"
+    "nameLow": "loganathan",
+    "status": "active"
   },
   {
     "serial_number": 291,
@@ -3489,7 +3779,8 @@
     "street_name": "South Thoppu",
     "age": 36,
     "gender": "Male / ஆண்",
-    "nameLow": "kumar"
+    "nameLow": "kumar",
+    "status": "active"
   },
   {
     "serial_number": 292,
@@ -3501,7 +3792,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "gayathri"
+    "nameLow": "gayathri",
+    "status": "active"
   },
   {
     "serial_number": 293,
@@ -3513,7 +3805,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "revathy"
+    "nameLow": "revathy",
+    "status": "active"
   },
   {
     "serial_number": 294,
@@ -3525,7 +3818,8 @@
     "street_name": "South Thoppu",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "suganthi"
+    "nameLow": "suganthi",
+    "status": "active"
   },
   {
     "serial_number": 295,
@@ -3537,7 +3831,8 @@
     "street_name": "South Thoppu",
     "age": 3,
     "gender": "Male / ஆண்",
-    "nameLow": "sudhakar"
+    "nameLow": "sudhakar",
+    "status": "active"
   },
   {
     "serial_number": 296,
@@ -3549,7 +3844,8 @@
     "street_name": "South Thoppu",
     "age": 33,
     "gender": "Female / பெண்",
-    "nameLow": "jayasree"
+    "nameLow": "jayasree",
+    "status": "active"
   },
   {
     "serial_number": 297,
@@ -3561,7 +3857,8 @@
     "street_name": "South Thoppu",
     "age": 77,
     "gender": "Female / பெண்",
-    "nameLow": "visalakshi"
+    "nameLow": "visalakshi",
+    "status": "active"
   },
   {
     "serial_number": 298,
@@ -3573,7 +3870,8 @@
     "street_name": "South Thoppu",
     "age": 25,
     "gender": "Male / ஆண்",
-    "nameLow": "saravanaraj|"
+    "nameLow": "saravanaraj|",
+    "status": "active"
   },
   {
     "serial_number": 299,
@@ -3585,7 +3883,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "sathish"
+    "nameLow": "sathish",
+    "status": "active"
   },
   {
     "serial_number": 300,
@@ -3597,7 +3896,8 @@
     "street_name": "South Thoppu",
     "age": 75,
     "gender": "Male / ஆண்",
-    "nameLow": "kanagasabai"
+    "nameLow": "kanagasabai",
+    "status": "active"
   },
   {
     "serial_number": 301,
@@ -3609,7 +3909,8 @@
     "street_name": "South Thoppu",
     "age": 62,
     "gender": "Female / பெண்",
-    "nameLow": "vasantha"
+    "nameLow": "vasantha",
+    "status": "active"
   },
   {
     "serial_number": 302,
@@ -3621,7 +3922,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "jayaprakash"
+    "nameLow": "jayaprakash",
+    "status": "active"
   },
   {
     "serial_number": 303,
@@ -3633,7 +3935,8 @@
     "street_name": "South Thoppu",
     "age": 34,
     "gender": "Female / பெண்",
-    "nameLow": "sathya"
+    "nameLow": "sathya",
+    "status": "active"
   },
   {
     "serial_number": 304,
@@ -3645,7 +3948,8 @@
     "street_name": "South Thoppu",
     "age": 60,
     "gender": "Male / ஆண்",
-    "nameLow": "murugaian"
+    "nameLow": "murugaian",
+    "status": "active"
   },
   {
     "serial_number": 305,
@@ -3657,7 +3961,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "priyadharshini"
+    "nameLow": "priyadharshini",
+    "status": "active"
   },
   {
     "serial_number": 306,
@@ -3669,7 +3974,8 @@
     "street_name": "South Thoppu",
     "age": 73,
     "gender": "Male / ஆண்",
-    "nameLow": "devendhiran"
+    "nameLow": "devendhiran",
+    "status": "active"
   },
   {
     "serial_number": 307,
@@ -3681,7 +3987,8 @@
     "street_name": "South Thoppu",
     "age": 71,
     "gender": "Female / பெண்",
-    "nameLow": "vasantha"
+    "nameLow": "vasantha",
+    "status": "active"
   },
   {
     "serial_number": 308,
@@ -3693,7 +4000,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Male / ஆண்",
-    "nameLow": "jegan"
+    "nameLow": "jegan",
+    "status": "active"
   },
   {
     "serial_number": 309,
@@ -3705,7 +4013,8 @@
     "street_name": "South Thoppu",
     "age": 60,
     "gender": "Male / ஆண்",
-    "nameLow": "vijayaragavan"
+    "nameLow": "vijayaragavan",
+    "status": "active"
   },
   {
     "serial_number": 310,
@@ -3717,7 +4026,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Female / பெண்",
-    "nameLow": "indirani"
+    "nameLow": "indirani",
+    "status": "active"
   },
   {
     "serial_number": 311,
@@ -3729,7 +4039,8 @@
     "street_name": "South Thoppu",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "priya"
+    "nameLow": "priya",
+    "status": "active"
   },
   {
     "serial_number": 312,
@@ -3741,7 +4052,8 @@
     "street_name": "South Thoppu",
     "age": 61,
     "gender": "Male / ஆண்",
-    "nameLow": "sivaperumal"
+    "nameLow": "sivaperumal",
+    "status": "active"
   },
   {
     "serial_number": 313,
@@ -3753,7 +4065,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Female / பெண்",
-    "nameLow": "poorani"
+    "nameLow": "poorani",
+    "status": "active"
   },
   {
     "serial_number": 314,
@@ -3765,7 +4078,8 @@
     "street_name": "South Thoppu",
     "age": 67,
     "gender": "Female / பெண்",
-    "nameLow": "dhanam"
+    "nameLow": "dhanam",
+    "status": "active"
   },
   {
     "serial_number": 315,
@@ -3777,7 +4091,8 @@
     "street_name": "South Thoppu",
     "age": 58,
     "gender": "Male / ஆண்",
-    "nameLow": "sivasankaran"
+    "nameLow": "sivasankaran",
+    "status": "active"
   },
   {
     "serial_number": 316,
@@ -3789,7 +4104,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 317,
@@ -3801,7 +4117,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "sathiya"
+    "nameLow": "sathiya",
+    "status": "active"
   },
   {
     "serial_number": 318,
@@ -3813,7 +4130,8 @@
     "street_name": "South Thoppu",
     "age": 66,
     "gender": "Female / பெண்",
-    "nameLow": "rajathy"
+    "nameLow": "rajathy",
+    "status": "active"
   },
   {
     "serial_number": 319,
@@ -3825,7 +4143,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "murali"
+    "nameLow": "murali",
+    "status": "active"
   },
   {
     "serial_number": 320,
@@ -3837,7 +4156,8 @@
     "street_name": "South Thoppu",
     "age": 74,
     "gender": "Male / ஆண்",
-    "nameLow": "loganathan"
+    "nameLow": "loganathan",
+    "status": "active"
   },
   {
     "serial_number": 321,
@@ -3849,7 +4169,8 @@
     "street_name": "South Thoppu",
     "age": 72,
     "gender": "Male / ஆண்",
-    "nameLow": "govindasamy"
+    "nameLow": "govindasamy",
+    "status": "active"
   },
   {
     "serial_number": 322,
@@ -3861,7 +4182,8 @@
     "street_name": "South Thoppu",
     "age": 67,
     "gender": "Female / பெண்",
-    "nameLow": "padmavathy"
+    "nameLow": "padmavathy",
+    "status": "active"
   },
   {
     "serial_number": 323,
@@ -3873,7 +4195,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Male / ஆண்",
-    "nameLow": "sivakumar"
+    "nameLow": "sivakumar",
+    "status": "active"
   },
   {
     "serial_number": 324,
@@ -3885,7 +4208,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Male / ஆண்",
-    "nameLow": "palanivel"
+    "nameLow": "palanivel",
+    "status": "active"
   },
   {
     "serial_number": 325,
@@ -3897,7 +4221,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Male / ஆண்",
-    "nameLow": "rishideepan"
+    "nameLow": "rishideepan",
+    "status": "active"
   },
   {
     "serial_number": 326,
@@ -3909,7 +4234,8 @@
     "street_name": "South Thoppu",
     "age": 71,
     "gender": "Male / ஆண்",
-    "nameLow": "mani"
+    "nameLow": "mani",
+    "status": "active"
   },
   {
     "serial_number": 327,
@@ -3921,7 +4247,8 @@
     "street_name": "South Thoppu",
     "age": 65,
     "gender": "Female / பெண்",
-    "nameLow": "rajathy"
+    "nameLow": "rajathy",
+    "status": "active"
   },
   {
     "serial_number": 328,
@@ -3933,7 +4260,8 @@
     "street_name": "South Thoppu",
     "age": 63,
     "gender": "Female / பெண்",
-    "nameLow": "kathayi"
+    "nameLow": "kathayi",
+    "status": "active"
   },
   {
     "serial_number": 329,
@@ -3945,7 +4273,8 @@
     "street_name": "South Thoppu",
     "age": 30,
     "gender": "Female / பெண்",
-    "nameLow": "sathiya"
+    "nameLow": "sathiya",
+    "status": "active"
   },
   {
     "serial_number": 330,
@@ -3957,7 +4286,8 @@
     "street_name": "South Thoppu",
     "age": 73,
     "gender": "Male / ஆண்",
-    "nameLow": "durairasu"
+    "nameLow": "durairasu",
+    "status": "active"
   },
   {
     "serial_number": 331,
@@ -3969,7 +4299,8 @@
     "street_name": "South Thoppu",
     "age": 69,
     "gender": "Female / பெண்",
-    "nameLow": "rajeswari"
+    "nameLow": "rajeswari",
+    "status": "active"
   },
   {
     "serial_number": 332,
@@ -3981,7 +4312,8 @@
     "street_name": "South Thoppu",
     "age": 51,
     "gender": "Female / பெண்",
-    "nameLow": "vasantha"
+    "nameLow": "vasantha",
+    "status": "active"
   },
   {
     "serial_number": 333,
@@ -3993,7 +4325,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "sudha"
+    "nameLow": "sudha",
+    "status": "active"
   },
   {
     "serial_number": 334,
@@ -4005,7 +4338,8 @@
     "street_name": "South Thoppu",
     "age": 76,
     "gender": "Male / ஆண்",
-    "nameLow": "avani"
+    "nameLow": "avani",
+    "status": "active"
   },
   {
     "serial_number": 335,
@@ -4017,7 +4351,8 @@
     "street_name": "South Thoppu",
     "age": 62,
     "gender": "Female / பெண்",
-    "nameLow": "mannambal"
+    "nameLow": "mannambal",
+    "status": "active"
   },
   {
     "serial_number": 336,
@@ -4029,7 +4364,8 @@
     "street_name": "South Thoppu",
     "age": 60,
     "gender": "Male / ஆண்",
-    "nameLow": "elzumalai"
+    "nameLow": "elzumalai",
+    "status": "active"
   },
   {
     "serial_number": 337,
@@ -4041,7 +4377,8 @@
     "street_name": "South Thoppu",
     "age": 55,
     "gender": "Female / பெண்",
-    "nameLow": "sivabooshani"
+    "nameLow": "sivabooshani",
+    "status": "active"
   },
   {
     "serial_number": 338,
@@ -4053,7 +4390,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "dhanalakshmi s"
+    "nameLow": "dhanalakshmi s",
+    "status": "active"
   },
   {
     "serial_number": 339,
@@ -4065,7 +4403,8 @@
     "street_name": "South Thoppu",
     "age": 76,
     "gender": "Female / பெண்",
-    "nameLow": "vaanadhi"
+    "nameLow": "vaanadhi",
+    "status": "active"
   },
   {
     "serial_number": 340,
@@ -4077,7 +4416,8 @@
     "street_name": "South Thoppu",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "balu"
+    "nameLow": "balu",
+    "status": "active"
   },
   {
     "serial_number": 341,
@@ -4089,7 +4429,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Female / பெண்",
-    "nameLow": "andal"
+    "nameLow": "andal",
+    "status": "active"
   },
   {
     "serial_number": 342,
@@ -4101,7 +4442,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Male / ஆண்",
-    "nameLow": "pogi"
+    "nameLow": "pogi",
+    "status": "active"
   },
   {
     "serial_number": 343,
@@ -4113,7 +4455,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "devil"
+    "nameLow": "devil",
+    "status": "active"
   },
   {
     "serial_number": 344,
@@ -4125,7 +4468,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "shagilathabi"
+    "nameLow": "shagilathabi",
+    "status": "active"
   },
   {
     "serial_number": 345,
@@ -4137,7 +4481,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "shagithabanu"
+    "nameLow": "shagithabanu",
+    "status": "active"
   },
   {
     "serial_number": 346,
@@ -4149,7 +4494,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "jothi murugan"
+    "nameLow": "jothi murugan",
+    "status": "active"
   },
   {
     "serial_number": 347,
@@ -4161,7 +4507,8 @@
     "street_name": "South Thoppu",
     "age": 28,
     "gender": "Female / பெண்",
-    "nameLow": "jothilakshmi"
+    "nameLow": "jothilakshmi",
+    "status": "active"
   },
   {
     "serial_number": 348,
@@ -4173,7 +4520,8 @@
     "street_name": "South Thoppu",
     "age": 67,
     "gender": "Female / பெண்",
-    "nameLow": "sivagami"
+    "nameLow": "sivagami",
+    "status": "active"
   },
   {
     "serial_number": 349,
@@ -4185,7 +4533,8 @@
     "street_name": "South Thoppu",
     "age": 63,
     "gender": "Female / பெண்",
-    "nameLow": "sarasu"
+    "nameLow": "sarasu",
+    "status": "active"
   },
   {
     "serial_number": 350,
@@ -4197,7 +4546,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "ayyavu"
+    "nameLow": "ayyavu",
+    "status": "active"
   },
   {
     "serial_number": 351,
@@ -4209,7 +4559,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "yuvasri"
+    "nameLow": "yuvasri",
+    "status": "active"
   },
   {
     "serial_number": 352,
@@ -4221,7 +4572,8 @@
     "street_name": "South Thoppu",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "vinmathi"
+    "nameLow": "vinmathi",
+    "status": "active"
   },
   {
     "serial_number": 353,
@@ -4233,7 +4585,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "kandan"
+    "nameLow": "kandan",
+    "status": "active"
   },
   {
     "serial_number": 354,
@@ -4245,7 +4598,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "rajavel"
+    "nameLow": "rajavel",
+    "status": "active"
   },
   {
     "serial_number": 355,
@@ -4257,7 +4611,8 @@
     "street_name": "South Thoppu",
     "age": 40,
     "gender": "Female / பெண்",
-    "nameLow": "viji"
+    "nameLow": "viji",
+    "status": "active"
   },
   {
     "serial_number": 356,
@@ -4269,7 +4624,8 @@
     "street_name": "South Thoppu",
     "age": 38,
     "gender": "Female / பெண்",
-    "nameLow": "kayathri"
+    "nameLow": "kayathri",
+    "status": "active"
   },
   {
     "serial_number": 357,
@@ -4281,7 +4637,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Male / ஆண்",
-    "nameLow": "raja sekar"
+    "nameLow": "raja sekar",
+    "status": "active"
   },
   {
     "serial_number": 358,
@@ -4293,7 +4650,8 @@
     "street_name": "South Thoppu",
     "age": 55,
     "gender": "Male / ஆண்",
-    "nameLow": "narayanamoorthi"
+    "nameLow": "narayanamoorthi",
+    "status": "active"
   },
   {
     "serial_number": 359,
@@ -4305,7 +4663,8 @@
     "street_name": "South Thoppu",
     "age": 45,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 360,
@@ -4317,7 +4676,8 @@
     "street_name": "South Thoppu",
     "age": 58,
     "gender": "Male / ஆண்",
-    "nameLow": "ramalingam"
+    "nameLow": "ramalingam",
+    "status": "active"
   },
   {
     "serial_number": 361,
@@ -4329,7 +4689,8 @@
     "street_name": "South Thoppu",
     "age": 56,
     "gender": "Female / பெண்",
-    "nameLow": "indhra"
+    "nameLow": "indhra",
+    "status": "active"
   },
   {
     "serial_number": 362,
@@ -4341,7 +4702,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "manikandan"
+    "nameLow": "manikandan",
+    "status": "active"
   },
   {
     "serial_number": 363,
@@ -4353,7 +4715,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Female / பெண்",
-    "nameLow": "thangam"
+    "nameLow": "thangam",
+    "status": "active"
   },
   {
     "serial_number": 364,
@@ -4365,7 +4728,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Female / பெண்",
-    "nameLow": "karpagavalli"
+    "nameLow": "karpagavalli",
+    "status": "active"
   },
   {
     "serial_number": 365,
@@ -4377,7 +4741,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Male / ஆண்",
-    "nameLow": "hemachandiran"
+    "nameLow": "hemachandiran",
+    "status": "active"
   },
   {
     "serial_number": 366,
@@ -4389,7 +4754,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Male / ஆண்",
-    "nameLow": "sathish"
+    "nameLow": "sathish",
+    "status": "active"
   },
   {
     "serial_number": 367,
@@ -4401,7 +4767,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
-    "nameLow": "geetha lakshmi"
+    "nameLow": "geetha lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 368,
@@ -4413,7 +4780,8 @@
     "street_name": "South Thoppu",
     "age": 73,
     "gender": "Male / ஆண்",
-    "nameLow": "nagarasan"
+    "nameLow": "nagarasan",
+    "status": "active"
   },
   {
     "serial_number": 369,
@@ -4425,7 +4793,8 @@
     "street_name": "South Thoppu",
     "age": 66,
     "gender": "Female / பெண்",
-    "nameLow": "rani"
+    "nameLow": "rani",
+    "status": "active"
   },
   {
     "serial_number": 370,
@@ -4437,7 +4806,8 @@
     "street_name": "South Thoppu",
     "age": 56,
     "gender": "Female / பெண்",
-    "nameLow": "santhi"
+    "nameLow": "santhi",
+    "status": "active"
   },
   {
     "serial_number": 371,
@@ -4449,7 +4819,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Female / பெண்",
-    "nameLow": "rajambal"
+    "nameLow": "rajambal",
+    "status": "active"
   },
   {
     "serial_number": 372,
@@ -4461,7 +4832,8 @@
     "street_name": "South Thoppu",
     "age": 70,
     "gender": "Female / பெண்",
-    "nameLow": "thatchaiyani|"
+    "nameLow": "thatchaiyani|",
+    "status": "active"
   },
   {
     "serial_number": 373,
@@ -4473,7 +4845,8 @@
     "street_name": "South Thoppu",
     "age": 67,
     "gender": "Male / ஆண்",
-    "nameLow": "thangavel"
+    "nameLow": "thangavel",
+    "status": "active"
   },
   {
     "serial_number": 374,
@@ -4485,7 +4858,8 @@
     "street_name": "South Thoppu",
     "age": 59,
     "gender": "Female / பெண்",
-    "nameLow": "vijaya kumarl"
+    "nameLow": "vijaya kumarl",
+    "status": "active"
   },
   {
     "serial_number": 375,
@@ -4497,7 +4871,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "gobi"
+    "nameLow": "gobi",
+    "status": "active"
   },
   {
     "serial_number": 376,
@@ -4509,7 +4884,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "krishnan"
+    "nameLow": "krishnan",
+    "status": "active"
   },
   {
     "serial_number": 377,
@@ -4521,7 +4897,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "venkadachalam"
+    "nameLow": "venkadachalam",
+    "status": "active"
   },
   {
     "serial_number": 378,
@@ -4533,7 +4910,8 @@
     "street_name": "South Thoppu",
     "age": 51,
     "gender": "Male / ஆண்",
-    "nameLow": "danasakaran"
+    "nameLow": "danasakaran",
+    "status": "active"
   },
   {
     "serial_number": 379,
@@ -4545,7 +4923,8 @@
     "street_name": "South Thoppu",
     "age": 50,
     "gender": "Male / ஆண்",
-    "nameLow": "selvam"
+    "nameLow": "selvam",
+    "status": "active"
   },
   {
     "serial_number": 380,
@@ -4557,7 +4936,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "sasikala"
+    "nameLow": "sasikala",
+    "status": "active"
   },
   {
     "serial_number": 381,
@@ -4569,7 +4949,8 @@
     "street_name": "South Thoppu",
     "age": 41,
     "gender": "Female / பெண்",
-    "nameLow": "gowri"
+    "nameLow": "gowri",
+    "status": "active"
   },
   {
     "serial_number": 382,
@@ -4581,7 +4962,8 @@
     "street_name": "South Thoppu",
     "age": 51,
     "gender": "Male / ஆண்",
-    "nameLow": "sakthivel"
+    "nameLow": "sakthivel",
+    "status": "active"
   },
   {
     "serial_number": 383,
@@ -4593,7 +4975,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Female / பெண்",
-    "nameLow": "sundari"
+    "nameLow": "sundari",
+    "status": "active"
   },
   {
     "serial_number": 384,
@@ -4605,7 +4988,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "lyyanar"
+    "nameLow": "lyyanar",
+    "status": "active"
   },
   {
     "serial_number": 385,
@@ -4617,7 +5001,8 @@
     "street_name": "South Thoppu",
     "age": 30,
     "gender": "Female / பெண்",
-    "nameLow": "munirunnissa"
+    "nameLow": "munirunnissa",
+    "status": "active"
   },
   {
     "serial_number": 386,
@@ -4629,7 +5014,8 @@
     "street_name": "South Thoppu",
     "age": 85,
     "gender": "Female / பெண்",
-    "nameLow": "rajambal"
+    "nameLow": "rajambal",
+    "status": "active"
   },
   {
     "serial_number": 387,
@@ -4641,7 +5027,8 @@
     "street_name": "South Thoppu",
     "age": 66,
     "gender": "Female / பெண்",
-    "nameLow": "gowri"
+    "nameLow": "gowri",
+    "status": "active"
   },
   {
     "serial_number": 388,
@@ -4653,7 +5040,8 @@
     "street_name": "South Thoppu",
     "age": 53,
     "gender": "Male / ஆண்",
-    "nameLow": "shankar"
+    "nameLow": "shankar",
+    "status": "active"
   },
   {
     "serial_number": 389,
@@ -4665,7 +5053,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "sugumar"
+    "nameLow": "sugumar",
+    "status": "active"
   },
   {
     "serial_number": 390,
@@ -4677,7 +5066,8 @@
     "street_name": "South Thoppu",
     "age": 40,
     "gender": "Male / ஆண்",
-    "nameLow": "sasikumar"
+    "nameLow": "sasikumar",
+    "status": "active"
   },
   {
     "serial_number": 391,
@@ -4689,7 +5079,8 @@
     "street_name": "South Thoppu",
     "age": 24,
     "gender": "Female / பெண்",
-    "nameLow": "yuvarani"
+    "nameLow": "yuvarani",
+    "status": "active"
   },
   {
     "serial_number": 392,
@@ -4701,7 +5092,8 @@
     "street_name": "South Thoppu",
     "age": 36,
     "gender": "Female / பெண்",
-    "nameLow": "chinnaponnu"
+    "nameLow": "chinnaponnu",
+    "status": "active"
   },
   {
     "serial_number": 393,
@@ -4713,7 +5105,8 @@
     "street_name": "South Thoppu",
     "age": 67,
     "gender": "Male / ஆண்",
-    "nameLow": "velusamy"
+    "nameLow": "velusamy",
+    "status": "active"
   },
   {
     "serial_number": 394,
@@ -4725,7 +5118,8 @@
     "street_name": "South Thoppu",
     "age": 56,
     "gender": "Female / பெண்",
-    "nameLow": "pookothi"
+    "nameLow": "pookothi",
+    "status": "active"
   },
   {
     "serial_number": 395,
@@ -4737,7 +5131,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Female / பெண்",
-    "nameLow": "selvi"
+    "nameLow": "selvi",
+    "status": "active"
   },
   {
     "serial_number": 396,
@@ -4749,7 +5144,8 @@
     "street_name": "South Thoppu",
     "age": 34,
     "gender": "Male / ஆண்",
-    "nameLow": "parasuraman"
+    "nameLow": "parasuraman",
+    "status": "active"
   },
   {
     "serial_number": 397,
@@ -4761,7 +5157,8 @@
     "street_name": "South Thoppu",
     "age": 69,
     "gender": "Female / பெண்",
-    "nameLow": "govindammall"
+    "nameLow": "govindammall",
+    "status": "active"
   },
   {
     "serial_number": 398,
@@ -4773,7 +5170,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "mahesh"
+    "nameLow": "mahesh",
+    "status": "active"
   },
   {
     "serial_number": 399,
@@ -4785,7 +5183,8 @@
     "street_name": "South Thoppu",
     "age": 44,
     "gender": "Male / ஆண்",
-    "nameLow": "ayyanar"
+    "nameLow": "ayyanar",
+    "status": "active"
   },
   {
     "serial_number": 400,
@@ -4797,7 +5196,8 @@
     "street_name": "South Thoppu",
     "age": 43,
     "gender": "Male / ஆண்",
-    "nameLow": "arumugam"
+    "nameLow": "arumugam",
+    "status": "active"
   },
   {
     "serial_number": 401,
@@ -4809,7 +5209,8 @@
     "street_name": "South Thoppu",
     "age": 52,
     "gender": "Male / ஆண்",
-    "nameLow": "vinayagamoorthy"
+    "nameLow": "vinayagamoorthy",
+    "status": "active"
   },
   {
     "serial_number": 402,
@@ -4821,7 +5222,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "sagadevan"
+    "nameLow": "sagadevan",
+    "status": "active"
   },
   {
     "serial_number": 403,
@@ -4833,7 +5235,8 @@
     "street_name": "South Thoppu",
     "age": 55,
     "gender": "Female / பெண்",
-    "nameLow": "muniyammal"
+    "nameLow": "muniyammal",
+    "status": "active"
   },
   {
     "serial_number": 404,
@@ -4845,7 +5248,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Male / ஆண்",
-    "nameLow": "kumar"
+    "nameLow": "kumar",
+    "status": "active"
   },
   {
     "serial_number": 405,
@@ -4857,7 +5261,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Male / ஆண்",
-    "nameLow": "santhosh m"
+    "nameLow": "santhosh m",
+    "status": "active"
   },
   {
     "serial_number": 406,
@@ -4869,7 +5274,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Male / ஆண்",
-    "nameLow": "praveen kumar"
+    "nameLow": "praveen kumar",
+    "status": "active"
   },
   {
     "serial_number": 407,
@@ -4881,7 +5287,8 @@
     "street_name": "South Thoppu",
     "age": 31,
     "gender": "Male / ஆண்",
-    "nameLow": "viknesh"
+    "nameLow": "viknesh",
+    "status": "active"
   },
   {
     "serial_number": 408,
@@ -4893,7 +5300,8 @@
     "street_name": "South Thoppu",
     "age": 51,
     "gender": "Female / பெண்",
-    "nameLow": "lakshmi"
+    "nameLow": "lakshmi",
+    "status": "active"
   },
   {
     "serial_number": 409,
@@ -4905,7 +5313,8 @@
     "street_name": "South Thoppu",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "pathma"
+    "nameLow": "pathma",
+    "status": "active"
   },
   {
     "serial_number": 410,
@@ -4917,7 +5326,8 @@
     "street_name": "South Thoppu",
     "age": 42,
     "gender": "Female / பெண்",
-    "nameLow": "kamala"
+    "nameLow": "kamala",
+    "status": "active"
   },
   {
     "serial_number": 411,
@@ -4929,7 +5339,8 @@
     "street_name": "South Thoppu",
     "age": 30,
     "gender": "Female / பெண்",
-    "nameLow": "meera"
+    "nameLow": "meera",
+    "status": "active"
   },
   {
     "serial_number": 412,
@@ -4941,7 +5352,8 @@
     "street_name": "South Thoppu",
     "age": 49,
     "gender": "Female / பெண்",
-    "nameLow": "rajambal"
+    "nameLow": "rajambal",
+    "status": "active"
   },
   {
     "serial_number": 413,
@@ -4953,7 +5365,8 @@
     "street_name": "South Thoppu",
     "age": 48,
     "gender": "Female / பெண்",
-    "nameLow": "vasugi"
+    "nameLow": "vasugi",
+    "status": "active"
   },
   {
     "serial_number": 414,
@@ -4965,7 +5378,8 @@
     "street_name": "South Thoppu",
     "age": 46,
     "gender": "Male / ஆண்",
-    "nameLow": "deivasigamani"
+    "nameLow": "deivasigamani",
+    "status": "active"
   },
   {
     "serial_number": 415,
@@ -4977,7 +5391,8 @@
     "street_name": "South Thoppu",
     "age": 37,
     "gender": "Female / பெண்",
-    "nameLow": "manimegalai"
+    "nameLow": "manimegalai",
+    "status": "active"
   },
   {
     "serial_number": 416,
@@ -4989,7 +5404,8 @@
     "street_name": "South Thoppu",
     "age": 32,
     "gender": "Male / ஆண்",
-    "nameLow": "ramesh"
+    "nameLow": "ramesh",
+    "status": "active"
   },
   {
     "serial_number": 417,
@@ -5001,7 +5417,8 @@
     "street_name": "South Thoppu",
     "age": 28,
     "gender": "Female / பெண்",
-    "nameLow": "jayalakshmi"
+    "nameLow": "jayalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 418,
@@ -5013,7 +5430,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "sarathi"
+    "nameLow": "sarathi",
+    "status": "active"
   },
   {
     "serial_number": 419,
@@ -5025,7 +5443,8 @@
     "street_name": "South Thoppu",
     "age": 52,
     "gender": "Female / பெண்",
-    "nameLow": "madidevi"
+    "nameLow": "madidevi",
+    "status": "active"
   },
   {
     "serial_number": 420,
@@ -5037,7 +5456,8 @@
     "street_name": "South Thoppu",
     "age": 54,
     "gender": "Male / ஆண்",
-    "nameLow": "chandaram d"
+    "nameLow": "chandaram d",
+    "status": "active"
   },
   {
     "serial_number": 421,
@@ -5049,7 +5469,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "pushpa"
+    "nameLow": "pushpa",
+    "status": "active"
   },
   {
     "serial_number": 422,
@@ -5061,7 +5482,8 @@
     "street_name": "South Thoppu",
     "age": 23,
     "gender": "Female / பெண்",
-    "nameLow": "sapana"
+    "nameLow": "sapana",
+    "status": "active"
   },
   {
     "serial_number": 423,
@@ -5073,7 +5495,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "ganesh.c"
+    "nameLow": "ganesh.c",
+    "status": "active"
   },
   {
     "serial_number": 424,
@@ -5085,7 +5508,8 @@
     "street_name": "South Thoppu",
     "age": 18,
     "gender": "Male / ஆண்",
-    "nameLow": "abinash"
+    "nameLow": "abinash",
+    "status": "active"
   },
   {
     "serial_number": 425,
@@ -5097,7 +5521,8 @@
     "street_name": "South Thoppu",
     "age": 18,
     "gender": "Female / பெண்",
-    "nameLow": "raagavi.m"
+    "nameLow": "raagavi.m",
+    "status": "active"
   },
   {
     "serial_number": 426,
@@ -5109,7 +5534,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Female / பெண்",
-    "nameLow": "keerthana"
+    "nameLow": "keerthana",
+    "status": "active"
   },
   {
     "serial_number": 427,
@@ -5121,7 +5547,8 @@
     "street_name": "South Thoppu",
     "age": 18,
     "gender": "Female / பெண்",
-    "nameLow": "divya dharshini.m"
+    "nameLow": "divya dharshini.m",
+    "status": "active"
   },
   {
     "serial_number": 428,
@@ -5133,7 +5560,8 @@
     "street_name": "South Thoppu",
     "age": 21,
     "gender": "Male / ஆண்",
-    "nameLow": "bathrinath."
+    "nameLow": "bathrinath.",
+    "status": "active"
   },
   {
     "serial_number": 429,
@@ -5145,7 +5573,8 @@
     "street_name": "South Thoppu",
     "age": 18,
     "gender": "Female / பெண்",
-    "nameLow": "vijayalakshmi"
+    "nameLow": "vijayalakshmi",
+    "status": "active"
   },
   {
     "serial_number": 430,
@@ -5157,7 +5586,8 @@
     "street_name": "South Thoppu",
     "age": 29,
     "gender": "Female / பெண்",
-    "nameLow": "vanathi v"
+    "nameLow": "vanathi v",
+    "status": "active"
   },
   {
     "serial_number": 431,
@@ -5169,7 +5599,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Female / பெண்",
-    "nameLow": "priyadharshini r"
+    "nameLow": "priyadharshini r",
+    "status": "active"
   },
   {
     "serial_number": 432,
@@ -5181,7 +5612,8 @@
     "street_name": "South Thoppu",
     "age": 18,
     "gender": "Male / ஆண்",
-    "nameLow": "prabhakaran"
+    "nameLow": "prabhakaran",
+    "status": "active"
   },
   {
     "serial_number": 433,
@@ -5193,7 +5625,8 @@
     "street_name": "South Thoppu",
     "age": 20,
     "gender": "Male / ஆண்",
-    "nameLow": "rajesh"
+    "nameLow": "rajesh",
+    "status": "active"
   },
   {
     "serial_number": 434,
@@ -5205,7 +5638,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Female / பெண்",
-    "nameLow": "thodeti sreeja"
+    "nameLow": "thodeti sreeja",
+    "status": "active"
   },
   {
     "serial_number": 435,
@@ -5217,7 +5651,8 @@
     "street_name": "South Thoppu",
     "age": 39,
     "gender": "Male / ஆண்",
-    "nameLow": "manikandan"
+    "nameLow": "manikandan",
+    "status": "active"
   },
   {
     "serial_number": 436,
@@ -5229,7 +5664,8 @@
     "street_name": "South Thoppu",
     "age": 19,
     "gender": "Male / ஆண்",
-    "nameLow": "mano"
+    "nameLow": "mano",
+    "status": "active"
   },
   {
     "serial_number": 437,
@@ -5241,6 +5677,7 @@
     "street_name": "South Thoppu",
     "age": 35,
     "gender": "Male / ஆண்",
-    "nameLow": "dharmalingam"
+    "nameLow": "dharmalingam",
+    "status": "active"
   }
 ]
