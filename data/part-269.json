@@ -202,7 +202,7 @@
     "epic": "XYA0889907",
     "parent_name": "Kanniyappan",
     "parent_name_tamil": "கன்னியப்பன்",
-    "house_number": "1/",
+    "house_number": "1",
     "street_name": "Bajanai Kovil Street",
     "age": 31,
     "gender": "Male / ஆண்",
@@ -242,8 +242,8 @@
   {
     "serial_number": 17,
     "part_number": 269,
-    "name": "lyyappan",
-    "name_tamil": "லியப்பன்",
+    "name": "Iyyappan",
+    "name_tamil": "ஐயப்பன்",
     "epic": "XYA1089234",
     "parent_name": "Dhanalakshmi",
     "parent_name_tamil": "தனலட்சுமி",
@@ -252,7 +252,7 @@
     "age": 27,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "lyyappan"
+    "nameLow": "iyyappan"
   },
   {
     "serial_number": 18,
@@ -677,8 +677,8 @@
   {
     "serial_number": 46,
     "part_number": 269,
-    "name": "Anabarasi",
-    "name_tamil": "அனபரசி",
+    "name": "Anbarasi",
+    "name_tamil": "அன்பரசி",
     "epic": "XYA0559476",
     "parent_name": "Palani",
     "parent_name_tamil": "பழனி",
@@ -687,7 +687,7 @@
     "age": 38,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "anabarasi"
+    "nameLow": "anbarasi"
   },
   {
     "serial_number": 47,
@@ -800,7 +800,7 @@
     "name": "Mahalakshmi",
     "name_tamil": "மகாலட்சுமி",
     "epic": "XYA0445353",
-    "parent_name": "Narayanadurikannan",
+    "parent_name": "Narayanaduraikannan",
     "parent_name_tamil": "நாராயணதுரிகண்ணன்",
     "house_number": "7",
     "street_name": "Bajanai Kovil Street",
@@ -815,7 +815,7 @@
     "name": "Kalidoss",
     "name_tamil": "காளிதாஸ்",
     "epic": "XYA0980144",
-    "parent_name": "Avani |",
+    "parent_name": "Avani  ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "7",
     "street_name": "Bajanai Kovil Street",
@@ -977,8 +977,8 @@
   {
     "serial_number": 66,
     "part_number": 269,
-    "name": "Adhilakshmil",
-    "name_tamil": "ஆதிலட்சுமில்",
+    "name": "Adhilakshmi",
+    "name_tamil": "ஆதிலட்சுமி",
     "epic": "XYA1660398",
     "parent_name": "Rajagopal",
     "parent_name_tamil": "ராஜகோபால்",
@@ -987,7 +987,7 @@
     "age": 77,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "adhilakshmil"
+    "nameLow": "adhilakshmi"
   },
   {
     "serial_number": 67,
@@ -1130,8 +1130,8 @@
     "name": "Kuppammal",
     "name_tamil": "குப்பம்மாள்",
     "epic": "DSK9661323",
-    "parent_name": "Mannangattis",
-    "parent_name_tamil": "மண்ணாங்கட்டிகள்",
+    "parent_name": "Mannangatti",
+    "parent_name_tamil": "மண்ணாகட்டி",
     "house_number": "13D",
     "street_name": "Bajanai Kovil Street",
     "age": 57,
@@ -1160,8 +1160,8 @@
     "name": "Manjini",
     "name_tamil": "மஞ்சினி",
     "epic": "DSK9660606",
-    "parent_name": "Duralkannu",
-    "parent_name_tamil": "துரல்கண்ணு",
+    "parent_name": "Duraikannu",
+    "parent_name_tamil": "துரைக்கண்ணு",
     "house_number": "14",
     "street_name": "Bajanai Kovil Street",
     "age": 63,
@@ -1175,7 +1175,7 @@
     "name": "Muniammal",
     "name_tamil": "முனியம்மாள்",
     "epic": "XYA1660422",
-    "parent_name": "Manjini|",
+    "parent_name": "Manjini ",
     "parent_name_tamil": "மஞ்சினி",
     "house_number": "14",
     "street_name": "Bajanai Kovil Street",
@@ -1187,7 +1187,7 @@
   {
     "serial_number": 80,
     "part_number": 269,
-    "name": "Thirumal|",
+    "name": "Thirumal",
     "name_tamil": "திருமால்",
     "epic": "DSK9654781",
     "parent_name": "Manjini",
@@ -1197,7 +1197,7 @@
     "age": 45,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "thirumal|"
+    "nameLow": "thirumal"
   },
   {
     "serial_number": 81,
@@ -1265,7 +1265,7 @@
     "name": "Sakthivel",
     "name_tamil": "சக்திவேல்",
     "epic": "XYA0127860",
-    "parent_name": "Kuppusamil",
+    "parent_name": "Kuppusami",
     "parent_name_tamil": "குப்புசாமி",
     "house_number": "15-4",
     "street_name": "Bajanai Kovil Street",
@@ -1427,8 +1427,8 @@
   {
     "serial_number": 96,
     "part_number": 269,
-    "name": "Eagasri",
-    "name_tamil": "ேகாஸ்ரீ",
+    "name": "Egasri",
+    "name_tamil": "ஏகாஸ்ரீ",
     "epic": "XYA1046085",
     "parent_name": "Sengeni",
     "parent_name_tamil": "செங்கேனி",
@@ -1437,7 +1437,7 @@
     "age": 27,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "eagasri"
+    "nameLow": "egasri"
   },
   {
     "serial_number": 97,
@@ -1622,8 +1622,8 @@
   {
     "serial_number": 109,
     "part_number": 269,
-    "name": "lyyappan",
-    "name_tamil": "லியப்பன்",
+    "name": "Iyyappan",
+    "name_tamil": "ஐயப்பன்",
     "epic": "XYA2083509",
     "parent_name": "Kathavarayan",
     "parent_name_tamil": "காத்தவராயன்",
@@ -1632,7 +1632,7 @@
     "age": 25,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "lyyappan"
+    "nameLow": "iyyappan"
   },
   {
     "serial_number": 110,
@@ -1862,8 +1862,8 @@
   {
     "serial_number": 125,
     "part_number": 269,
-    "name": "Annakkilil",
-    "name_tamil": "அன்னக்கிளில்",
+    "name": "Annakkili",
+    "name_tamil": "அன்னக்கிளி",
     "epic": "XYA1660208",
     "parent_name": "Narayanasamy",
     "parent_name_tamil": "நாராயணசாமி",
@@ -1872,13 +1872,13 @@
     "age": 63,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "annakkilil"
+    "nameLow": "annakkili"
   },
   {
     "serial_number": 126,
     "part_number": 269,
-    "name": "Eagambaram",
-    "name_tamil": "ேகாம்பரம்",
+    "name": "Egambaram",
+    "name_tamil": "ஏகாம்பரம்",
     "epic": "DSK2798486",
     "parent_name": "Avani",
     "parent_name_tamil": "ஆவணி",
@@ -1887,7 +1887,7 @@
     "age": 45,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "eagambaram"
+    "nameLow": "egambaram"
   },
   {
     "serial_number": 127,
@@ -2537,7 +2537,7 @@
   {
     "serial_number": 170,
     "part_number": 269,
-    "name": "Amirthavalli|",
+    "name": "Amirthavalli ",
     "name_tamil": "அமிர்தவல்லி",
     "epic": "XYA0837633",
     "parent_name": "Jagan",
@@ -2547,7 +2547,7 @@
     "age": 30,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "amirthavalli|"
+    "nameLow": "amirthavalli "
   },
   {
     "serial_number": 171,
@@ -2612,8 +2612,8 @@
   {
     "serial_number": 175,
     "part_number": 269,
-    "name": "Gayathril",
-    "name_tamil": "காயத்ரில்",
+    "name": "Gayathri",
+    "name_tamil": "காயத்ரி",
     "epic": "XYA1168327",
     "parent_name": "Purushothaman",
     "parent_name_tamil": "புருஷோத்தமன்",
@@ -2622,7 +2622,7 @@
     "age": 28,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "gayathril"
+    "nameLow": "gayathri"
   },
   {
     "serial_number": 176,
@@ -2847,7 +2847,7 @@
     "age": 30,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "mangalyarkarasi"
+    "nameLow": "mangaiyarkarasi"
   },
   {
     "serial_number": 191,
@@ -2942,8 +2942,8 @@
   {
     "serial_number": 197,
     "part_number": 269,
-    "name": "Athilakshmil",
-    "name_tamil": "அதிலட்சுமில்",
+    "name": "Athilakshmi",
+    "name_tamil": "அதிலட்சுமி",
     "epic": "XYA1751866",
     "parent_name": "Sumathi",
     "parent_name_tamil": "சுமதி",
@@ -2952,7 +2952,7 @@
     "age": 26,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "athilakshmil"
+    "nameLow": "athilakshmi"
   },
   {
     "serial_number": 198,
@@ -3272,7 +3272,7 @@
   {
     "serial_number": 219,
     "part_number": 269,
-    "name": "Aridoss",
+    "name": "Aridass",
     "name_tamil": "அரிடாஸ்",
     "epic": "DSK2635092",
     "parent_name": "Santhamurthy",
@@ -3282,7 +3282,7 @@
     "age": 45,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "aridoss"
+    "nameLow": "aridass"
   },
   {
     "serial_number": 220,
@@ -3410,8 +3410,8 @@
     "name": "Dinesh",
     "name_tamil": "தினேஷ்",
     "epic": "XYA2131084",
-    "parent_name": "Annamalal",
-    "parent_name_tamil": "அண்ணாமலால்",
+    "parent_name": "Annamalai",
+    "parent_name_tamil": "அண்ணாமலை",
     "house_number": "81",
     "street_name": "Bajanai Kovil Street",
     "age": 19,
@@ -3647,8 +3647,8 @@
   {
     "serial_number": 244,
     "part_number": 269,
-    "name": "Krishnavenil",
-    "name_tamil": "கிருஷ்ணவேனில்",
+    "name": "Krishnaveni",
+    "name_tamil": "கிருஷ்ணவேணி",
     "epic": "XYA1662139",
     "parent_name": "Krishnan",
     "parent_name_tamil": "கிருஷ்ணன்",
@@ -3657,7 +3657,7 @@
     "age": 71,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "krishnavenil"
+    "nameLow": "krishnaveni"
   },
   {
     "serial_number": 245,
@@ -3965,7 +3965,7 @@
     "name": "Lalitha",
     "name_tamil": "லலிதா",
     "epic": "XYA0128017",
-    "parent_name": "Elumalai|",
+    "parent_name": "Elumalai ",
     "parent_name_tamil": "ஏழுமலை",
     "house_number": "89-101",
     "street_name": "Bajanai Kovil Street",
@@ -4052,8 +4052,8 @@
   {
     "serial_number": 271,
     "part_number": 269,
-    "name": "Kanasen",
-    "name_tamil": "கனாசென்",
+    "name": "Ganasen",
+    "name_tamil": "கணேசன்",
     "epic": "DSK9653668",
     "parent_name": "Krishnamurthy",
     "parent_name_tamil": "கிருஷ்ணமூர்த்தி",
@@ -4062,7 +4062,7 @@
     "age": 44,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "kanasen"
+    "nameLow": "ganasen"
   },
   {
     "serial_number": 272,
@@ -4262,7 +4262,7 @@
   {
     "serial_number": 285,
     "part_number": 269,
-    "name": "Karpagammall",
+    "name": "Karpagammal",
     "name_tamil": "கற்பகம்மாள்",
     "epic": "XYA1662303",
     "parent_name": "Ramalingam",
@@ -4272,7 +4272,7 @@
     "age": 76,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "karpagammall"
+    "nameLow": "karpagammal"
   },
   {
     "serial_number": 286,
@@ -4325,7 +4325,7 @@
     "name": "Manimegalai",
     "name_tamil": "மணிமேகலை",
     "epic": "XYA0837468",
-    "parent_name": "Nagaraji|",
+    "parent_name": "Nagaraji ",
     "parent_name_tamil": "நாகராஜி",
     "house_number": "94",
     "street_name": "Bajanai Kovil Street",
@@ -4488,7 +4488,7 @@
     "serial_number": 300,
     "part_number": 269,
     "name": "Mathan",
-    "name_tamil": "மாதன்",
+    "name_tamil": "மதன்",
     "epic": "XYA1853654",
     "parent_name": "Mani",
     "parent_name_tamil": "மணி",
@@ -4982,8 +4982,8 @@
   {
     "serial_number": 333,
     "part_number": 269,
-    "name": "Elzurnalai",
-    "name_tamil": "எழுர்நாலை",
+    "name": "Elzumalai",
+    "name_tamil": "எழுமலை",
     "epic": "XYA1662436",
     "parent_name": "Arumugam",
     "parent_name_tamil": "ஆறுமுகம்",
@@ -4992,7 +4992,7 @@
     "age": 67,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "elzurnalai"
+    "nameLow": "elzumalai"
   },
   {
     "serial_number": 334,
@@ -5282,7 +5282,7 @@
   {
     "serial_number": 353,
     "part_number": 269,
-    "name": "Sankeetha",
+    "name": "Sangeetha",
     "name_tamil": "சங்கீதா",
     "epic": "XYA0797373",
     "parent_name": "Ponnappan",
@@ -5292,7 +5292,7 @@
     "age": 31,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "sankeetha"
+    "nameLow": "sangeetha"
   },
   {
     "serial_number": 354,
@@ -5330,8 +5330,8 @@
     "name": "Parinathan",
     "name_tamil": "பரிநாதன்",
     "epic": "DSK1148477",
-    "parent_name": "lyyasamy",
-    "parent_name_tamil": "லயசாமி",
+    "parent_name": "Iyyasamy",
+    "parent_name_tamil": "ஐயசாமி",
     "house_number": "112",
     "street_name": "Bajanai Kovil Street",
     "age": 65,
@@ -5900,7 +5900,7 @@
     "name": "Senthil",
     "name_tamil": "செந்தில்",
     "epic": "DSK9654815",
-    "parent_name": "Avani |",
+    "parent_name": "Avani  ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "142",
     "street_name": "Bajanai Kovil Street",
@@ -6050,8 +6050,8 @@
     "name": "Ganapathy",
     "name_tamil": "கணபதி",
     "epic": "DSK2635217",
-    "parent_name": "Thmatheren",
-    "parent_name_tamil": "த்மதெரன்",
+    "parent_name": "Thamotharan",
+    "parent_name_tamil": "தாமோதரன்",
     "house_number": "149",
     "street_name": "Bajanai Kovil Street",
     "age": 72,
@@ -6137,8 +6137,8 @@
   {
     "serial_number": 410,
     "part_number": 269,
-    "name": "lyappan",
-    "name_tamil": "லியப்பன்",
+    "name": "Iyappan",
+    "name_tamil": "ஐயப்பன்",
     "epic": "XYA0128140",
     "parent_name": "Chandirar",
     "parent_name_tamil": "சந்திரர்",
@@ -6147,7 +6147,7 @@
     "age": 39,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "lyappan"
+    "nameLow": "iyappan"
   },
   {
     "serial_number": 411,
@@ -6707,7 +6707,7 @@
   {
     "serial_number": 448,
     "part_number": 269,
-    "name": "Anjumathui|",
+    "name": "Anjumathi",
     "name_tamil": "அஞ்சுமதி",
     "epic": "XYA1168285",
     "parent_name": "Manikandan",
@@ -6717,7 +6717,7 @@
     "age": 27,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "anjumathui|"
+    "nameLow": "anjumathi"
   },
   {
     "serial_number": 449,
@@ -7025,7 +7025,7 @@
     "name": "Prabhavathi",
     "name_tamil": "பிரபாவதி",
     "epic": "DSK2798684",
-    "parent_name": "JEYAKUMAR|",
+    "parent_name": "JEYAKUMAR ",
     "parent_name_tamil": "ஜெயக்குமார்",
     "house_number": "1",
     "street_name": "Maniyakar Street",
@@ -7235,8 +7235,8 @@
     "name": "Sethuraman",
     "name_tamil": "சேதுராமன்",
     "epic": "DSK9656497",
-    "parent_name": "Perume",
-    "parent_name_tamil": "பெருமே",
+    "parent_name": "Perumal",
+    "parent_name_tamil": "பெருமாள்",
     "house_number": "3",
     "street_name": "Maniyakar Street",
     "age": 49,
@@ -7520,8 +7520,8 @@
     "name": "Chandira",
     "name_tamil": "சந்திரா",
     "epic": "XYA1664879",
-    "parent_name": "Rajil",
-    "parent_name_tamil": "ரஜில்",
+    "parent_name": "Raji ",
+    "parent_name_tamil": "ரஜி",
     "house_number": "13-33",
     "street_name": "Maniyakar Street",
     "age": 50,
@@ -7712,7 +7712,7 @@
   {
     "serial_number": 515,
     "part_number": 269,
-    "name": "Vijayalakshmil",
+    "name": "Vijayalakshmi",
     "name_tamil": "விஜயலட்சுமி",
     "epic": "XYA0128389",
     "parent_name": "Raja",
@@ -7722,7 +7722,7 @@
     "age": 38,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "vijayalakshmil"
+    "nameLow": "vijayalakshmi"
   },
   {
     "serial_number": 516,
@@ -7742,17 +7742,17 @@
   {
     "serial_number": 517,
     "part_number": 269,
-    "name": "Malini|",
+    "name": "Malini ",
     "name_tamil": "மாலினி",
     "epic": "XYA0128363",
-    "parent_name": "Chandirasekaran/",
-    "parent_name_tamil": "சந்திரசேகரன்/",
+    "parent_name": "Chandirasekaran",
+    "parent_name_tamil": "சந்திரசேகரன்",
     "house_number": "18-85",
     "street_name": "Maniyakar Street",
     "age": 51,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "malini|"
+    "nameLow": "malini "
   },
   {
     "serial_number": 518,
@@ -7862,8 +7862,8 @@
   {
     "serial_number": 525,
     "part_number": 269,
-    "name": "Adhilakshmil",
-    "name_tamil": "ஆதிலட்சுமில்",
+    "name": "Adhilakshmi",
+    "name_tamil": "ஆதிலட்சுமி",
     "epic": "DSK2683746",
     "parent_name": "Ravichandran",
     "parent_name_tamil": "ரவிச்சந்திரன்",
@@ -7872,7 +7872,7 @@
     "age": 52,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "adhilakshmil"
+    "nameLow": "adhilakshmi"
   },
   {
     "serial_number": 526,
@@ -7880,7 +7880,7 @@
     "name": "Murugan",
     "name_tamil": "முருகன்",
     "epic": "XYA1664952",
-    "parent_name": "Avani |",
+    "parent_name": "Avani  ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "20",
     "street_name": "Maniyakar Street",
@@ -7895,7 +7895,7 @@
     "name": "Revathi",
     "name_tamil": "ரேவதி",
     "epic": "XYA0167478",
-    "parent_name": "Aavani|",
+    "parent_name": "Aavani ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "20",
     "street_name": "Maniyakar Street",
@@ -7952,8 +7952,8 @@
   {
     "serial_number": 531,
     "part_number": 269,
-    "name": "lyappan",
-    "name_tamil": "லியப்பன்",
+    "name": "Iyappan",
+    "name_tamil": "ஐயப்பன்",
     "epic": "XYA0445387",
     "parent_name": "Paavadai",
     "parent_name_tamil": "பாவாடை",
@@ -7962,7 +7962,7 @@
     "age": 36,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "lyappan"
+    "nameLow": "iyappan"
   },
   {
     "serial_number": 532,
@@ -7997,7 +7997,7 @@
   {
     "serial_number": 534,
     "part_number": 269,
-    "name": "Dhanlakshmi",
+    "name": "Dhanalakshmi",
     "name_tamil": "தனலட்சுமி",
     "epic": "XYA0315440",
     "parent_name": "Vasanthakumar",
@@ -8007,7 +8007,7 @@
     "age": 47,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "dhanlakshmi"
+    "nameLow": "dhanalakshmi"
   },
   {
     "serial_number": 535,
@@ -8042,8 +8042,8 @@
   {
     "serial_number": 537,
     "part_number": 269,
-    "name": "Erajalatchumi",
-    "name_tamil": "எரஜலட்சுமி",
+    "name": "Rajalakshmi",
+    "name_tamil": "ராஜலட்சுமி",
     "epic": "XYA1664994",
     "parent_name": "Ramamoorthy",
     "parent_name_tamil": "ராமமூர்த்தி",
@@ -8052,7 +8052,7 @@
     "age": 42,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "erajalatchumi"
+    "nameLow": "rajalakshmi"
   },
   {
     "serial_number": 538,
@@ -8255,7 +8255,7 @@
     "name": "Poongodi",
     "name_tamil": "பூங்கொடி",
     "epic": "XYA0837518",
-    "parent_name": "Annamalai|",
+    "parent_name": "Annamalai ",
     "parent_name_tamil": "அண்ணாமலை",
     "house_number": "48",
     "street_name": "Maniyakar Street",
@@ -8435,7 +8435,7 @@
     "name": "Velu",
     "name_tamil": "வேலு",
     "epic": "XYA0445304",
-    "parent_name": "Kaliayaperumal|",
+    "parent_name": "Kaliayaperumal ",
     "parent_name_tamil": "கலியப்பெருமாள்",
     "house_number": "70",
     "street_name": "Maniyakar Street",
@@ -8780,8 +8780,8 @@
     "name": "Sathya",
     "name_tamil": "சத்யா",
     "epic": "XYA0889964",
-    "parent_name": "lyyappan",
-    "parent_name_tamil": "லியப்பன்",
+    "parent_name": "Iyyappan",
+    "parent_name_tamil": "ஐயப்பன்",
     "house_number": "184",
     "street_name": "Maniyakar Street",
     "age": 34,
@@ -8992,7 +8992,7 @@
     "epic": "XYA0980235",
     "parent_name": "Baskaran",
     "parent_name_tamil": "பாஸ்கரன்",
-    "house_number": "1/",
+    "house_number": "1",
     "street_name": "Colony",
     "age": 45,
     "gender": "Female / பெண்",
@@ -9092,8 +9092,8 @@
   {
     "serial_number": 607,
     "part_number": 269,
-    "name": "Anisha Parvee",
-    "name_tamil": "அனிஷா பர்வி",
+    "name": "Anisha Parveen",
+    "name_tamil": "அனிஷா பர்வீன்",
     "epic": "XYA0797217",
     "parent_name": "Abdul Kathar",
     "parent_name_tamil": "அப்துல் காதர்",
@@ -9102,7 +9102,7 @@
     "age": 31,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "anisha parvee"
+    "nameLow": "anisha parveen"
   },
   {
     "serial_number": 608,
@@ -9122,7 +9122,7 @@
   {
     "serial_number": 609,
     "part_number": 269,
-    "name": "Saranraj|",
+    "name": "Saranraj ",
     "name_tamil": "சரண்ராஜ்",
     "epic": "XYA1853217",
     "parent_name": "Govindaraj",
@@ -9132,7 +9132,7 @@
     "age": 26,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "saranraj|"
+    "nameLow": "saranraj "
   },
   {
     "serial_number": 610,
@@ -9215,8 +9215,8 @@
     "name": "Kanaga",
     "name_tamil": "கனகா",
     "epic": "XYA0127357",
-    "parent_name": "Kangathural",
-    "parent_name_tamil": "கங்காதுரல்",
+    "parent_name": "Kangathurai",
+    "parent_name_tamil": "கங்காதுரை",
     "house_number": "1-78",
     "street_name": "Colony",
     "age": 46,
@@ -9605,8 +9605,8 @@
     "name": "Murugan",
     "name_tamil": "முருகன்",
     "epic": "XYA0127332",
-    "parent_name": "lyythurai",
-    "parent_name_tamil": "லைத்துரை",
+    "parent_name": "Iyyathurai",
+    "parent_name_tamil": "ஐயத்துரை",
     "house_number": "4-4",
     "street_name": "Colony",
     "age": 49,
@@ -9785,7 +9785,7 @@
     "name": "Murugan",
     "name_tamil": "முருகன்",
     "epic": "XYA0127381",
-    "parent_name": "Ealumalai",
+    "parent_name": "Elumalai",
     "parent_name_tamil": "ஏழுமலை",
     "house_number": "7-93",
     "street_name": "Colony",
@@ -10025,8 +10025,8 @@
     "name": "Anbu",
     "name_tamil": "அன்பு",
     "epic": "DSK2711836",
-    "parent_name": "Rajl",
-    "parent_name_tamil": "ராஜ்ல்",
+    "parent_name": "Raji",
+    "parent_name_tamil": "ராஜி",
     "house_number": "12",
     "street_name": "Colony",
     "age": 54,
@@ -10040,7 +10040,7 @@
     "name": "Selvi",
     "name_tamil": "செல்வி",
     "epic": "XYA0127514",
-    "parent_name": "Baramasivan",
+    "parent_name": "Paramasivan",
     "parent_name_tamil": "பரமசிவன்",
     "house_number": "12",
     "street_name": "Colony",
@@ -10100,8 +10100,8 @@
     "name": "Nirmala",
     "name_tamil": "நிர்மலா",
     "epic": "XYA1853373",
-    "parent_name": "lyyappan",
-    "parent_name_tamil": "லியப்பன்",
+    "parent_name": "Iyappan",
+    "parent_name_tamil": "ஐயப்பன்",
     "house_number": "12",
     "street_name": "Colony",
     "age": 27,
@@ -10430,7 +10430,7 @@
     "name": "Bavatharini P",
     "name_tamil": "பவதாரிணி பி",
     "epic": "XYA2148369",
-    "parent_name": "Vimalraj|",
+    "parent_name": "Vimalraj ",
     "parent_name_tamil": "விமல்ராஜ்",
     "house_number": "22",
     "street_name": "Colony",
@@ -10580,7 +10580,7 @@
     "name": "Mani",
     "name_tamil": "மணி",
     "epic": "XYA1665264",
-    "parent_name": "Amavasal",
+    "parent_name": "Amavasai",
     "parent_name_tamil": "அமாவாசை",
     "house_number": "26",
     "street_name": "Colony",
@@ -10592,17 +10592,17 @@
   {
     "serial_number": 707,
     "part_number": 269,
-    "name": "Mathil",
-    "name_tamil": "மதில்",
+    "name": "Mathi",
+    "name_tamil": "மதி",
     "epic": "XYA1669076",
-    "parent_name": "Mani|",
+    "parent_name": "Mani ",
     "parent_name_tamil": "மணி",
     "house_number": "26",
     "street_name": "Colony",
     "age": 56,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "mathil"
+    "nameLow": "mathi"
   },
   {
     "serial_number": 708,
@@ -10775,7 +10775,7 @@
     "name": "Subha",
     "name_tamil": "சுபா",
     "epic": "XYA1148246",
-    "parent_name": "Hemaraj|",
+    "parent_name": "Hemaraj ",
     "parent_name_tamil": "ஹேமராஜ்",
     "house_number": "27",
     "street_name": "Colony",
@@ -11495,7 +11495,7 @@
     "name": "Varadhammal",
     "name_tamil": "வரதம்மாள்",
     "epic": "XYA1669266",
-    "parent_name": "Avani|",
+    "parent_name": "Avani ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "50",
     "street_name": "Colony",
@@ -11540,8 +11540,8 @@
     "name": "Narasimman",
     "name_tamil": "நரசிம்மன்",
     "epic": "XYA1853274",
-    "parent_name": "Elumalal",
-    "parent_name_tamil": "ஏழுமலால்",
+    "parent_name": "Elumalai",
+    "parent_name_tamil": "ஏழுமலை",
     "house_number": "50",
     "street_name": "Colony",
     "age": 38,
@@ -11615,8 +11615,8 @@
     "name": "Dhanlakshmi",
     "name_tamil": "தனலட்சுமி",
     "epic": "XYA0315739",
-    "parent_name": "M",
-    "parent_name_tamil": "எம்",
+    "parent_name": "Maheshkumar",
+    "parent_name_tamil": "மகेश்குமார்",
     "house_number": "51",
     "street_name": "Colony",
     "age": 36,
@@ -11792,17 +11792,17 @@
   {
     "serial_number": 787,
     "part_number": 269,
-    "name": "Yuovaraj",
+    "name": "Yuvaraj",
     "name_tamil": "யுவராஜ்",
     "epic": "XYA0127803",
-    "parent_name": "Anpalagan",
+    "parent_name": "Anbalagan",
     "parent_name_tamil": "அன்பழகன்",
     "house_number": "55",
     "street_name": "Colony",
     "age": 39,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "yuovaraj"
+    "nameLow": "yuvaraj"
   },
   {
     "serial_number": 788,
@@ -12407,7 +12407,7 @@
   {
     "serial_number": 828,
     "part_number": 269,
-    "name": "Mariammall",
+    "name": "Mariammal",
     "name_tamil": "மாரியம்மாள்",
     "epic": "DSK9658204",
     "parent_name": "Manibalan",
@@ -12417,7 +12417,7 @@
     "age": 49,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "mariammall"
+    "nameLow": "mariammal"
   },
   {
     "serial_number": 829,
@@ -12455,8 +12455,8 @@
     "name": "Malathi",
     "name_tamil": "மாலதி",
     "epic": "XYA0315788",
-    "parent_name": "Kanagasabal",
-    "parent_name_tamil": "கனகசபால்",
+    "parent_name": "Kanagasabai",
+    "parent_name_tamil": "கனகசபை",
     "house_number": "72",
     "street_name": "Colony",
     "age": 42,
@@ -12482,17 +12482,17 @@
   {
     "serial_number": 833,
     "part_number": 269,
-    "name": "Aarayi|",
+    "name": "Aarayi ",
     "name_tamil": "ஆராய்",
     "epic": "XYA1669514",
-    "parent_name": "Avani|",
+    "parent_name": "Avani ",
     "parent_name_tamil": "ஆவணி",
     "house_number": "73",
     "street_name": "Colony",
     "age": 77,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "aarayi|"
+    "nameLow": "aarayi "
   },
   {
     "serial_number": 834,
@@ -12572,8 +12572,8 @@
   {
     "serial_number": 839,
     "part_number": 269,
-    "name": "Devki",
-    "name_tamil": "தேவ்கி",
+    "name": "Devaki",
+    "name_tamil": "தேவகி",
     "epic": "DSK9660598",
     "parent_name": "Avani",
     "parent_name_tamil": "ஆவணி",
@@ -12582,7 +12582,7 @@
     "age": 47,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "devki"
+    "nameLow": "devaki"
   },
   {
     "serial_number": 840,
@@ -12602,7 +12602,7 @@
   {
     "serial_number": 841,
     "part_number": 269,
-    "name": "Pugach vali",
+    "name": "Pugachvali",
     "name_tamil": "புகச் வலி",
     "epic": "XYA0127498",
     "parent_name": "Poobalan",
@@ -12612,7 +12612,7 @@
     "age": 37,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "pugach vali"
+    "nameLow": "pugachvali"
   },
   {
     "serial_number": 842,
@@ -12620,8 +12620,8 @@
     "name": "Navammal",
     "name_tamil": "நாவம்மாள்",
     "epic": "XYA0393595",
-    "parent_name": "Manyappan",
-    "parent_name_tamil": "மான்யப்பன்",
+    "parent_name": "Mariyappan",
+    "parent_name_tamil": "மரியப்பன்",
     "house_number": "75E",
     "street_name": "Colony",
     "age": 65,
@@ -13385,7 +13385,7 @@
     "name": "Danasegar",
     "name_tamil": "தனசேகர்",
     "epic": "XYA0127431",
-    "parent_name": "Kanniyal",
+    "parent_name": "Kanniyaal",
     "parent_name_tamil": "கன்னியால்",
     "house_number": "97",
     "street_name": "Colony",
@@ -13547,8 +13547,8 @@
   {
     "serial_number": 904,
     "part_number": 269,
-    "name": "Avanniyammal",
-    "name_tamil": "அவனியம்மாள்",
+    "name": "Aavaniyammal",
+    "name_tamil": "ஆவணியம்மாள்",
     "epic": "DSK9656117",
     "parent_name": "Velu",
     "parent_name_tamil": "வேலு",
@@ -13557,7 +13557,7 @@
     "age": 45,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "avanniyammal"
+    "nameLow": "aavaniyammal"
   },
   {
     "serial_number": 905,
@@ -13727,7 +13727,7 @@
   {
     "serial_number": 916,
     "part_number": 269,
-    "name": "Vijya",
+    "name": "Vijaya",
     "name_tamil": "விஜயா",
     "epic": "XYA1742238",
     "parent_name": "Arumugam",
@@ -13737,7 +13737,7 @@
     "age": 50,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "vijya"
+    "nameLow": "vijaya"
   },
   {
     "serial_number": 917,
