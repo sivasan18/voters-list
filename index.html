@@ -481,7 +481,19 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   font-size: 24px;
   font-weight: 600;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.street-name-box {
+  background: rgba(220, 38, 38, 0.15);
+  color: #ff8a8a;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 8px 18px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-bottom: 25px;
+  border: 1px solid rgba(220, 38, 38, 0.3);
 }
 
 .modal-footer-info {
@@ -708,6 +720,7 @@ Serial numbers auto-corrected."></textarea>
     <div class="modal-body">
       <div class="voter-name-big" id="mName">—</div>
       <div class="parent-rel-box" id="mParent">—</div>
+      <div class="street-name-box" id="mStreet">—</div>
     </div>
 
     <div class="modal-footer-info">
@@ -788,7 +801,7 @@ async function loadData() {
       // Support both camelCase and snake_case field names
       if (v.part_number !== undefined && v.partNumber === undefined) v.partNumber = v.part_number;
       if (v.serial_number !== undefined && v.serial === undefined) v.serial = v.serial_number;
-      if (v.parent_name_address !== undefined && v.parent === undefined) v.parent = v.parent_name_address;
+      if (v.parent_name !== undefined && v.parent === undefined) v.parent = v.parent_name;
       if (v.house_number !== undefined && v.houseNo === undefined) v.houseNo = v.house_number;
       if (v.name_tamil !== undefined && v.nameTamil === undefined) v.nameTamil = v.name_tamil;
       
@@ -893,19 +906,18 @@ function parseVoterText(raw, partNumber) {
 
     v.id = 'v' + Math.random().toString(36).substr(2, 5);
     
-    // STRUCTURE: Consistent snake_case for return
     const record = {
       serial_number: v.serial,
       part_number: v.partNumber,
       name: v.name,
-      name_tamil: v.nameTamil,
       epic: v.epic,
-      parent_name_address: v.parent,
+      parent_name: v.parent,
       house_number: v.houseNo,
+      street_name: "",
       age: v.age,
-      gender: v.gender
+      gender: v.gender,
+      nameLow: (v.name || '').toLowerCase()
     };
-    record.nameLow = (v.name || '').toLowerCase();
     voters.push(record);
   }
 
@@ -1050,7 +1062,8 @@ function downloadExcel(data, part) {
     'Part Number': v.part_number,
     'Name': v.name,
     'EPIC Number': v.epic,
-    'Parent Name & Address': v.parent_name_address,
+    'Parent Name': v.parent_name,
+    'Street Name': v.street_name || '-',
     'House Number': v.house_number || '-',
     'Age': v.age || '-',
     'Gender': v.gender || '-'
@@ -1158,10 +1171,13 @@ function openModal(id) {
   
   document.getElementById('mEpic').textContent = v.epic || '—';
 
-  const rawParent = v.parent || v.parent_name_address || '';
+  const rawParent = v.parent || v.parent_name || '';
   const voterGender = v.gender || '';
   const cleanedParent = cleanParentForModal(rawParent, voterGender);
   document.getElementById('mParent').textContent = cleanedParent || '—';
+
+  // Read street_name from data or default
+  document.getElementById('mStreet').textContent = v.street_name || '—';
 
   document.getElementById('mAge').textContent = v.age ? v.age + ' Years' : '—';
   
