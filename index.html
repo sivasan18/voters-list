@@ -60,7 +60,9 @@ body {
 
 /* ======= WEB VIEW MODE ======= */
 body.web-view .app {
-  max-width: 960px;
+  max-width: 100%;
+  width: 100%;
+  margin: 0;
 }
 body.web-view .res-list {
   display: grid;
@@ -75,6 +77,28 @@ body.web-view .pane {
 }
 body.web-view .header {
   padding: 14px 24px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+body.web-view .header-brand {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+body.web-view .dev-attribution {
+  flex: 2;
+  text-align: center;
+  margin: 0 auto;
+  width: auto;
+}
+body.web-view .header-right {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
 }
 body.web-view .tabs .tab {
   font-size: 15px;
@@ -155,8 +179,8 @@ body.web-view .tabs .tab {
 .header-right {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  gap: 12px;
+  justify-content: flex-end;
+  gap: 10px;
   flex-wrap: wrap;
   width: 100%;
 }
@@ -398,7 +422,10 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   background: #111;
   border: 2px solid #333;
   border-radius: 24px;
-  width: 100%; max-width: 440px; max-height: 92dvh;
+  width: auto; 
+  min-width: 320px;
+  max-width: 95vw; 
+  max-height: 92dvh;
   overflow-y: auto; padding: 0;
   position: relative;
   transform: scale(.9) translateY(20px);
@@ -406,7 +433,7 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   transition: all .35s cubic-bezier(0.34, 1.56, 0.64, 1);
   box-shadow: 0 0 40px rgba(220,38,38,0.25), 0 20px 60px rgba(0,0,0,0.8);
   color: #fff;
-  overflow-x: hidden;
+  overflow-x: auto;
 }
 .overlay.open .modal { transform: scale(1) translateY(0); opacity: 1; }
 
@@ -469,12 +496,12 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
 .modal-close:hover { background: #fff; color: #000; }
 
 .voter-name-big {
-  font-size: 38px;
+  font-size: 34px;
   font-weight: 800;
-  line-height: 1.1;
+  line-height: 1.2;
   margin-bottom: 8px;
   color: #fff;
-  word-break: break-word;
+  white-space: nowrap;
 }
 
 /* Status Seal Stamp Effect */
@@ -508,12 +535,67 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   background: rgba(139, 0, 0, 0.15);
   display: block;
 }
+/* Info Boxes for Serial/Part */
+.info-box-container {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 25px;
+  margin-top: 10px; /* Spacing from close icon */
+}
+.info-box {
+  flex: 1;
+  background: var(--primary); /* Red */
+  color: #fff;
+  padding: 12px 15px;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(220, 38, 38, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 70px;
+}
+.info-box-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  opacity: 0.9;
+  margin-bottom: 4px;
+}
+.info-box-value {
+  font-size: 26px;
+  font-weight: 900;
+  font-family: var(--mono);
+  line-height: 1;
+}
 
 .parent-rel-box {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
-  color: #fff;
-  margin-bottom: 20px;
+  color: #ccc;
+  margin-bottom: 12px;
+  white-space: nowrap;
+}
+.tamil-row {
+  display: block;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+.tamil-name {
+  font-size: 28px;
+  color: var(--primary2);
+  margin-bottom: 4px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.tamil-parent {
+  font-size: 20px;
+  color: #aaa;
+  margin-bottom: 12px;
+  font-weight: 500;
+  white-space: nowrap;
 }
 
 .street-name-box {
@@ -526,6 +608,7 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   display: inline-block;
   margin-bottom: 25px;
   border: 1px solid rgba(220, 38, 38, 0.3);
+  white-space: nowrap;
 }
 
 .modal-footer-info {
@@ -627,6 +710,10 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   <div class="dev-attribution">Developed by Anumanthai DMK</div>
 
   <div class="header-right">
+    <div class="view-toggle">
+      <button class="view-btn active" id="langEngBtn" onclick="setLang('en')">English</button>
+      <button class="view-btn" id="langTamBtn" onclick="setLang('ta')">Tamil</button>
+    </div>
     <button class="admin-btn" onclick="requestAdminAccess()">Admin</button>
     <div class="view-toggle">
       <button class="view-btn active" id="mobileViewBtn" onclick="setView('mobile')">📱 Mobile</button>
@@ -759,32 +846,52 @@ Serial numbers auto-corrected."></textarea>
   <div class="modal" id="modalBox">
     <button class="modal-close" onclick="closeModal()">✕</button>
 
-    <div class="modal-header-row">
-      <div class="modal-header-item">
-        <div class="modal-header-label">Serial</div>
-        <div class="modal-header-value" id="mSerial">0</div>
+    <div class="modal-body" style="text-align: left; padding: 60px 30px 40px 30px; position: relative;">
+      <div id="mStatusSeal" class="status-seal"></div>
+      <!-- Row 1: Serial & Part Boxes -->
+      <div class="info-box-container">
+        <!-- Serial Box -->
+        <div class="info-box">
+          <div class="info-box-label">Serial</div>
+          <div class="info-box-value" id="mSerial">0</div>
+        </div>
+        <!-- Part Box -->
+        <div class="info-box">
+          <div class="info-box-label">Part</div>
+          <div class="info-box-value" id="mPartNum">0</div>
+        </div>
       </div>
-      <div class="modal-header-item">
-        <div class="modal-header-label">Part</div>
-        <div class="modal-header-value" id="mPartNum">0</div>
-      </div>
-    </div>
 
-    <div class="modal-body">
-      <div style="position: relative; display: inline-block; width: 100%;">
-        <div id="mStatusSeal" class="status-seal"></div>
-        <div class="voter-name-big" id="mName">—</div>
-        <div class="parent-rel-box" id="mParent">—</div>
-      </div>
-      <div class="street-name-box" id="mStreet">—</div>
-    </div>
+      <!-- Row 2: English Name -->
+      <div id="mNameEng" class="voter-name-big">—</div>
 
-    <div class="modal-footer-info">
-      <div class="footer-epic" id="mEpic">—</div>
-      <div class="footer-meta">
-        <span id="mAge">—</span>
-        <span id="mGender">—</span>
+      <!-- Row 3: English Parent -->
+      <div id="mParentEng" class="parent-rel-box">—</div>
+
+      <!-- Tamil Rows -->
+      <div class="tamil-row">
+        <!-- Row 4: Tamil Name -->
+        <div id="mNameTam" class="tamil-name">—</div>
+        <!-- Row 5: Tamil Parent -->
+        <div id="mParentTam" class="tamil-parent">—</div>
       </div>
+
+      <!-- Row 6: Street Name -->
+      <div style="margin-top: 15px; margin-bottom: 25px;">
+        <div id="mStreetRow" class="street-name-box">—</div>
+      </div>
+
+      <!-- Footer Info -->
+      <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #333;">
+        <!-- Row 7: EPIC -->
+        <div id="mEpicRow" style="font-family: var(--mono); font-size: 22px; font-weight: 800; color: #fff; margin-bottom: 10px; white-space: nowrap;">—</div>
+        <!-- Row 8: Age & Gender -->
+        <div style="display: flex; gap: 20px; font-size: 18px; font-weight: 600; color: #aaa;">
+          <span id="mAgeVal">—</span>
+          <span id="mGenderVal">—</span>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
@@ -799,6 +906,16 @@ Serial numbers auto-corrected."></textarea>
 let cache = []; // global records
 let partsManifest = [];
 let currentSearchMode = 'name';
+let currentLangMode = 'en';
+
+function setLang(lang) {
+  currentLangMode = lang;
+  document.getElementById('langEngBtn').classList.toggle('active', lang === 'en');
+  document.getElementById('langTamBtn').classList.toggle('active', lang === 'ta');
+  
+  const inEl = document.getElementById('searchIn');
+  if (inEl.value) onSearch(inEl.value);
+}
 
 function setSearchMode(mode) {
   currentSearchMode = mode;
@@ -982,8 +1099,10 @@ function parseVoterText(raw, partNumber) {
       serial_number: v.serial,
       part_number: v.partNumber,
       name: v.name,
+      name_tamil: "",
       epic: v.epic,
       parent_name: v.parent,
+      parent_name_tamil: "",
       house_number: v.houseNo,
       street_name: "",
       age: v.age,
@@ -1134,8 +1253,10 @@ function downloadExcel(data, part) {
     'Serial Number': v.serial_number,
     'Part Number': v.part_number,
     'Name': v.name,
+    'Name (Tamil)': v.name_tamil || '',
     'EPIC Number': v.epic,
     'Parent Name': v.parent_name,
+    'Parent Name (Tamil)': v.parent_name_tamil || '',
     'Street Name': v.street_name || '-',
     'House Number': v.house_number || '-',
     'Age': v.age || '-',
@@ -1179,15 +1300,22 @@ function doSearch(q) {
     const isTamilQuery = /[\u0B80-\u0BFF]/.test(q);
 
     results = results.filter(v => {
-      if (currentSearchMode === 'parent') {
-        const pLow = (v.parent || '').toLowerCase();
-        if (pLow.includes(lo)) return true;
+      if (currentLangMode === 'ta') {
+        if (currentSearchMode === 'parent') {
+          const ptLow = (v.parent_name_tamil || '').toLowerCase();
+          return ptLow.includes(lo);
+        } else {
+          const ntLow = (v.name_tamil || '').toLowerCase();
+          return ntLow.includes(lo);
+        }
       } else {
-        // EXACT SUBSTRING MATCH ONLY
-        if ((v.nameLow && v.nameLow.includes(lo)) || 
-            (v.nameTamilLow && v.nameTamilLow.includes(lo)) ||
-            (v.epic && v.epic.toUpperCase().includes(up))) {
-          return true;
+        if (currentSearchMode === 'parent') {
+          const pLow = (v.parent || v.parent_name || '').toLowerCase();
+          return pLow.includes(lo);
+        } else {
+          const nLow = v.nameLow || (v.name || '').toLowerCase();
+          const epUp = (v.epic || '').toUpperCase();
+          if (nLow.includes(lo) || epUp.includes(up)) return true;
         }
       }
       return false;
@@ -1205,13 +1333,19 @@ function doSearch(q) {
   }
 
   const shown = results.slice(0, 300);
-  document.getElementById('resList').innerHTML = shown.map((v, i) => `
+  document.getElementById('resList').innerHTML = shown.map((v, i) => {
+    // Determine names to display
+    const showName = (currentLangMode === 'ta' && v.name_tamil) ? v.name_tamil : (v.name || '—');
+    const showParent = (currentLangMode === 'ta' && v.parent_name_tamil) ? v.parent_name_tamil : (v.parent || v.parent_name || '—');
+    
+    return `
     <div class="res-item" onclick="openModal('${v.id}')" style="animation-delay:${i * 5}ms">
       <div class="res-sn">SN: ${v.serial || v.serial_number || '-'} · Part ${v.partNumber || v.part_number || '-'}</div>
-      <div class="res-name">${currentSearchMode === 'name' ? hl(escH(v.name || '—'), q) : escH(v.name || '—')}</div>
-      ${currentSearchMode === 'parent' ? '<div class="res-epic" style="color:#111; font-weight:600; margin-bottom:3px;">👨‍👩‍👦 ' + hl(escH(v.parent || '—'), q) + '</div>' : ''}
+      <div class="res-name" style="font-weight:700;">${currentSearchMode === 'name' ? hl(escH(showName), q) : escH(showName)}</div>
+      ${currentSearchMode === 'parent' ? '<div class="res-epic" style="color:#111; font-weight:600; font-size:15px; margin-bottom:3px;">👨‍👩‍👦 ' + hl(escH(showParent), q) + '</div>' : ''}
       <div class="res-epic">${currentSearchMode === 'name' ? (v.epic ? hl(v.epic, q) : 'No EPIC') : (v.epic || 'No EPIC')}</div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 }
 
 function hl(txt, q) {
@@ -1224,10 +1358,6 @@ function setSearchEmpty(msg) {
   document.getElementById('resList').innerHTML = `
     <div class="empty"><div class="eicon">🔍</div><div class="etxt">${escH(msg)}</div></div>`;
 }
-
-// ================================================================
-// UI & HELPERS
-// ================================================================
 
 function switchTab(tab, el) {
   document.querySelectorAll('.pane').forEach(p => p.classList.remove('active'));
@@ -1244,26 +1374,28 @@ function openModal(id) {
   document.getElementById('mSerial').textContent  = v.serial || v.serial_number || '?';
   document.getElementById('mPartNum').textContent  = v.partNumber || v.part_number || '?';
   
-  // Show English Name and Tamil Name if available
-  const displayName = v.nameTamil ? `${v.nameTamil}<br><small style="font-size:0.6em; font-weight:400; opacity:0.8;">${v.name}</small>` : v.name;
-  document.getElementById('mName').innerHTML = displayName || '—';
+  const engName = (v.name || '—');
+  const tamName = v.name_tamil || '';
   
-  document.getElementById('mEpic').textContent = v.epic || '—';
-
-  const rawParent = v.parent || v.parent_name || '';
-  const voterGender = v.gender || '';
-  const cleanedParent = cleanParentForModal(rawParent, voterGender, v.age);
-  document.getElementById('mParent').textContent = cleanedParent || '—';
-
-  // Read street_name from data or default
-  document.getElementById('mStreet').textContent = v.street_name || '—';
-
-  document.getElementById('mAge').textContent = v.age ? v.age + ' Years' : '—';
+  document.getElementById('mNameEng').textContent = engName;
+  document.getElementById('mNameTam').textContent = tamName || '—';
   
-  // Remove "Gender:" label, keep only Male/Female
+  document.getElementById('mEpicRow').textContent = v.epic || '—';
+
+  const rawParentEng = v.parent || v.parent_name || '';
+  const engParent = cleanParentForModal(rawParentEng, v.gender, v.age);
+  const tamParent = v.parent_name_tamil || '';
+  
+  document.getElementById('mParentEng').textContent = engParent;
+  document.getElementById('mParentTam').textContent = tamParent || '—';
+
+  document.getElementById('mStreetRow').textContent = v.street_name || '—';
+
+  document.getElementById('mAgeVal').textContent = v.age ? v.age + ' Years' : '—';
+  
   let gen = v.gender || '—';
   gen = gen.replace(/Gender\s*:?\s*/gi, '').replace(/ஆண்\b/g, 'Male').replace(/பெண்\b/g, 'Female').trim();
-  document.getElementById('mGender').textContent = gen;
+  document.getElementById('mGenderVal').textContent = gen;
 
   // Status Seal Logic
   const seal = document.getElementById('mStatusSeal');
