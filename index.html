@@ -384,7 +384,22 @@ textarea {
 }
 .search-input::placeholder { color: #a3a3a3; font-weight: 500; font-size: 20px; }
 .search-input:focus { border-color: var(--primary) !important; background: #fff !important; }
-.res-count { font-size: 12px; color: var(--text3); font-family: var(--mono); text-align: center; padding: 6px 0; }
+@keyframes pulseCount {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.02); }
+}
+.res-count { 
+  font-size: 24px; 
+  font-weight: 800; 
+  color: #FFFFFF; 
+  font-family: var(--body); 
+  text-align: center; 
+  padding: 15px 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  animation: pulseCount 1.2s infinite ease-in-out;
+  text-shadow: 0 0 10px rgba(255,255,255,0.3);
+}
 .res-list { display: flex; flex-direction: column; gap: 8px; }
 .res-item {
   background: #ffffff;
@@ -499,7 +514,7 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
   font-size: 34px;
   font-weight: 800;
   line-height: 1.2;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   color: #fff;
   white-space: nowrap;
 }
@@ -573,27 +588,24 @@ mark { background: rgba(220,38,38,.2); color: #1a1a1a; border-radius: 2px; paddi
 .parent-rel-box {
   font-size: 22px;
   font-weight: 600;
-  color: #ccc;
-  margin-bottom: 12px;
+  color: #fff;
+  margin-bottom: 15px;
   white-space: nowrap;
 }
 .tamil-row {
   display: block;
-  margin-top: 10px;
-  padding-top: 10px;
-  border-top: 1px solid rgba(255,255,255,0.1);
 }
 .tamil-name {
   font-size: 28px;
-  color: var(--primary2);
+  color: #fff;
   margin-bottom: 4px;
   font-weight: 700;
   white-space: nowrap;
 }
 .tamil-parent {
   font-size: 20px;
-  color: #aaa;
-  margin-bottom: 12px;
+  color: #fff;
+  margin-bottom: 15px;
   font-weight: 500;
   white-space: nowrap;
 }
@@ -848,6 +860,7 @@ Serial numbers auto-corrected."></textarea>
 
     <div class="modal-body" style="text-align: left; padding: 60px 30px 40px 30px; position: relative;">
       <div id="mStatusSeal" class="status-seal"></div>
+      
       <!-- Row 1: Serial & Part Boxes -->
       <div class="info-box-container">
         <!-- Serial Box -->
@@ -862,19 +875,17 @@ Serial numbers auto-corrected."></textarea>
         </div>
       </div>
 
-      <!-- Row 2: English Name -->
+      <!-- Row 2: Tamil Name (White) -->
+      <div id="mNameTam" class="tamil-name">—</div>
+
+      <!-- Row 3: Tamil Parent (White) -->
+      <div id="mParentTam" class="tamil-parent">—</div>
+
+      <!-- Row 4: English Name (White) -->
       <div id="mNameEng" class="voter-name-big">—</div>
 
-      <!-- Row 3: English Parent -->
+      <!-- Row 5: English Parent (White) -->
       <div id="mParentEng" class="parent-rel-box">—</div>
-
-      <!-- Tamil Rows -->
-      <div class="tamil-row">
-        <!-- Row 4: Tamil Name -->
-        <div id="mNameTam" class="tamil-name">—</div>
-        <!-- Row 5: Tamil Parent -->
-        <div id="mParentTam" class="tamil-parent">—</div>
-      </div>
 
       <!-- Row 6: Street Name -->
       <div style="margin-top: 15px; margin-bottom: 25px;">
@@ -1323,9 +1334,9 @@ function doSearch(q) {
   }
 
   const cnt = results.length;
-  document.getElementById('resCount').textContent = q 
-    ? `${cnt} results found` 
-    : (partFilter ? `Part ${partFilter}: ${cnt} records` : `Total: ${cnt} records`);
+  document.getElementById('resCount').textContent = q || partFilter
+    ? `${cnt.toLocaleString()} Results Found` 
+    : `Total: ${cnt.toLocaleString()} Records`;
 
   if (!cnt) {
     setSearchEmpty(q ? 'No matches found.' : (cache.length === 0 ? 'Loading data or index empty...' : 'No records match filters.'));
@@ -1382,12 +1393,10 @@ function openModal(id) {
   
   document.getElementById('mEpicRow').textContent = v.epic || '—';
 
-  const rawParentEng = v.parent || v.parent_name || '';
-  const engParent = cleanParentForModal(rawParentEng, v.gender, v.age);
-  const tamParent = v.parent_name_tamil || '';
-  
-  document.getElementById('mParentEng').textContent = engParent;
-  document.getElementById('mParentTam').textContent = tamParent || '—';
+  // Relation logic
+  const rels = getRelationPair(v);
+  document.getElementById('mParentEng').textContent = rels.en;
+  document.getElementById('mParentTam').textContent = rels.ta;
 
   document.getElementById('mStreetRow').textContent = v.street_name || '—';
 
@@ -1413,32 +1422,36 @@ function openModal(id) {
   document.getElementById('overlay').classList.add('open');
 }
 
-function cleanParentForModal(text, gender, age) {
-  if (!text) return '';
+function getRelationPair(v) {
+  const enParentRaw = v.parent || v.parent_name || '';
+  const taParentRaw = v.parent_name_tamil || '';
   
-  // Extract name part
-  let pName = text.split(/House Number|H\.No|Age|Gender|வயது|கதவு எண்/i)[0].trim();
+  if (!enParentRaw && !taParentRaw) return { en: '—', ta: '—' };
   
-  const lowerText = text.toLowerCase();
-  const isFemale = String(gender).toLowerCase().includes('female') || String(gender).includes('பெண்');
-  const numAge = parseInt(age, 10);
+  const gender = (v.gender || '').toLowerCase();
+  const age = parseInt(v.age || 0, 10);
+  const isFemale = gender.includes('female') || gender.includes('பெண்');
   
-  let relation = "S/o"; // default for all males
+  let relEn = "S/o";
+  let relTa = "த/பெ";
   
   if (isFemale) {
-    // For females, age >= 40 or explicitly matched husband triggers W/o
-    if ((numAge >= 40) || lowerText.includes("husband") || lowerText.includes("w/o") || lowerText.includes("கணவர்") || lowerText.includes("wife")) {
-      relation = "W/o";
+    if (age >= 40 || enParentRaw.toLowerCase().includes("husband") || enParentRaw.toLowerCase().includes("w/o") || taParentRaw.includes("கணவர்")) {
+      relEn = "W/o";
+      relTa = "க/பெ";
     } else {
-      // If no husband explicitly found and under 40, default to Daughter
-      relation = "D/o";
+      relEn = "D/o";
+      relTa = "த/பெ";
     }
   }
-  
-  // Remove prefixes from name
-  pName = pName.replace(/^(S[\/\\]O|W[\/\\]O|D[\/\\]O|Son of|Wife of|Daughter of|Husband of|Father|Mother|தந்தை|தாய்|கணவர்|கணவன்)[:\s]*/i, '').trim();
 
-  return `${relation} ${pName}`;
+  const cleanEn = enParentRaw.replace(/^(S[\/\\]O|W[\/\\]O|D[\/\\]O|Son of|Wife of|Daughter of|Husband of|Father|Mother|தந்தை|தாய்|கணவர்|கணவன்)[:\s]*/i, '').trim();
+  const cleanTa = taParentRaw.replace(/^(S[\/\\]O|W[\/\\]O|D[\/\\]O|Son of|Wife of|Daughter of|Husband of|Father|Mother|தந்தை|தாய்|கணவர்|கணவன்)[:\s]*/i, '').trim();
+
+  return {
+    en: relEn + " " + (cleanEn || '—'),
+    ta: relTa + " " + (cleanTa || '—')
+  };
 }
 
 function closeModal() { document.getElementById('overlay').classList.remove('open'); }

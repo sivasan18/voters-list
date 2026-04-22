@@ -317,8 +317,8 @@
   {
     "serial_number": 22,
     "part_number": 270,
-    "name": "P RAJESWARI",
-    "name_tamil": "பி ராஜேஸ்வரி",
+    "name": "RAJESWARI",
+    "name_tamil": "ராஜேஸ்வரி",
     "epic": "XYA2169712",
     "parent_name": "BALAMURUGAN",
     "parent_name_tamil": "பாலமுருகன்",
@@ -327,7 +327,7 @@
     "age": 34,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "p rajeswari"
+    "nameLow": "rajeswari"
   },
   {
     "serial_number": 23,
@@ -992,8 +992,8 @@
   {
     "serial_number": 67,
     "part_number": 270,
-    "name": "K ANANDHAN",
-    "name_tamil": "கே ஆனந்தன்",
+    "name": "ANANDHAN",
+    "name_tamil": "ஆனந்தன்",
     "epic": "DSK9659715",
     "parent_name": "KUPPUSAMI",
     "parent_name_tamil": "குப்புசாமி",
@@ -1002,7 +1002,7 @@
     "age": 46,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "k anandhan"
+    "nameLow": "anandhan"
   },
   {
     "serial_number": 68,
@@ -1787,8 +1787,8 @@
   {
     "serial_number": 120,
     "part_number": 270,
-    "name": "VINODHINI M",
-    "name_tamil": "வினோதினி எம்",
+    "name": "VINODHINI",
+    "name_tamil": "வினோதினி",
     "epic": "XYA0557504",
     "parent_name": "Marimuthu",
     "parent_name_tamil": "மாரிமுத்து",
@@ -1797,7 +1797,7 @@
     "age": 32,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "vinodhini m"
+    "nameLow": "vinodhini"
   },
   {
     "serial_number": 121,
@@ -3017,8 +3017,8 @@
   {
     "serial_number": 202,
     "part_number": 270,
-    "name": "DHANAKOTTI E",
-    "name_tamil": "தனகோட்டி இ",
+    "name": "DHANAKOTTI",
+    "name_tamil": "தனகோட்டி",
     "epic": "XYA0980441",
     "parent_name": "Elumalai",
     "parent_name_tamil": "ஏழுமலை",
@@ -3027,7 +3027,7 @@
     "age": 33,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "dhanakotti e"
+    "nameLow": "dhanakotti"
   },
   {
     "serial_number": 203,
@@ -4127,8 +4127,8 @@
   {
     "serial_number": 276,
     "part_number": 270,
-    "name": "Iyyammal E",
-    "name_tamil": "ஐயம்மாள் ஈ",
+    "name": "Iyyammal",
+    "name_tamil": "ஐயம்மாள்",
     "epic": "XYA2156941",
     "parent_name": "IYYAPPAN",
     "parent_name_tamil": "ஐயப்பன்",
@@ -4137,7 +4137,7 @@
     "age": 23,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "iyyammal e"
+    "nameLow": "iyyammal"
   },
   {
     "serial_number": 277,
@@ -5585,8 +5585,8 @@
     "name": "MUNUSAMI SANTHOSHKUMAR",
     "name_tamil": "முனுசாமி சந்தோஷ்குமார்",
     "epic": "XYA2146215",
-    "parent_name": "SANTOSHKUMAR E",
-    "parent_name_tamil": "சந்தோஷ்குமார் இ",
+    "parent_name": "SANTOSHKUMAR",
+    "parent_name_tamil": "சந்தோஷ்குமார்",
     "house_number": "105",
     "street_name": "North Thoppu",
     "age": 19,
@@ -6062,8 +6062,8 @@
   {
     "serial_number": 405,
     "part_number": 270,
-    "name": "R Pradeepa",
-    "name_tamil": "ஆர் பிரதீபா",
+    "name": "Pradeepa",
+    "name_tamil": "பிரதீபா",
     "epic": "XYA2089738",
     "parent_name": "Ramesh",
     "parent_name_tamil": "ரமேஷ்",
@@ -6072,7 +6072,7 @@
     "age": 20,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "r pradeepa"
+    "nameLow": "pradeepa"
   },
   {
     "serial_number": 406,
@@ -6827,8 +6827,8 @@
   {
     "serial_number": 456,
     "part_number": 270,
-    "name": "Abisheak E",
-    "name_tamil": "அபிஷேக் ஈ",
+    "name": "Abisheak",
+    "name_tamil": "அபிஷேக்",
     "epic": "XYA2106441",
     "parent_name": "Elumalai",
     "parent_name_tamil": "ஏழுமலை",
@@ -6837,7 +6837,7 @@
     "age": 20,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "abisheak e"
+    "nameLow": "abisheak"
   },
   {
     "serial_number": 457,
@@ -7037,8 +7037,8 @@
   {
     "serial_number": 470,
     "part_number": 270,
-    "name": "Venkatesan A",
-    "name_tamil": "வெங்கடேசன் ஏ",
+    "name": "Venkatesan",
+    "name_tamil": "வெங்கடேசன்",
     "epic": "XYA2025906",
     "parent_name": "Arumugam",
     "parent_name_tamil": "ஆறுமுகம்",
@@ -7047,7 +7047,7 @@
     "age": 22,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "venkatesan a"
+    "nameLow": "venkatesan"
   },
   {
     "serial_number": 471,
@@ -7847,32 +7847,32 @@
   {
     "serial_number": 524,
     "part_number": 270,
-    "name": "MADHUBALA J",
-    "name_tamil": "மதுபாலா ஜே",
+    "name": "MADHUBALA",
+    "name_tamil": "மதுபாலா",
     "epic": "XYA2040269",
-    "parent_name": "JANARTHANAN G",
-    "parent_name_tamil": "ஜனார்த்தனன் ஜி",
+    "parent_name": "JANARTHANAN",
+    "parent_name_tamil": "ஜனார்த்தனன்",
     "house_number": "326",
     "street_name": "North Thoppu",
     "age": 20,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "madhubala j"
+    "nameLow": "madhubala"
   },
   {
     "serial_number": 525,
     "part_number": 270,
-    "name": "Ruvandhika A",
-    "name_tamil": "ருவந்திகா ஏ",
+    "name": "Ruvandhika",
+    "name_tamil": "ருவந்திகா",
     "epic": "XYA2163962",
-    "parent_name": "adhikesavan g",
-    "parent_name_tamil": "ஆதிகேசவன் ஜி",
+    "parent_name": "adhikesavan",
+    "parent_name_tamil": "ஆதிகேசவன்",
     "house_number": "326",
     "street_name": "North Thoppu",
     "age": 19,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "ruvandhika a"
+    "nameLow": "ruvandhika"
   },
   {
     "serial_number": 526,
@@ -8057,7 +8057,7 @@
   {
     "serial_number": 538,
     "part_number": 270,
-    "name": "A Kavithasree",
+    "name": "Kavithasree",
     "name_tamil": "ஒரு கவிதாஸ்ரே",
     "epic": "XYA1853902",
     "parent_name": "Arunraman",
@@ -8067,7 +8067,7 @@
     "age": 35,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "a kavithasree"
+    "nameLow": "kavithasree"
   },
   {
     "serial_number": 539,
@@ -8192,8 +8192,8 @@
   {
     "serial_number": 547,
     "part_number": 270,
-    "name": "TAMILARASI K",
-    "name_tamil": "தமிழரசி கே",
+    "name": "TAMILARASI",
+    "name_tamil": "தமிழரசி",
     "epic": "XYA2020246",
     "parent_name": "KANNIYAPPAN",
     "parent_name_tamil": "கன்னியப்பன்",
@@ -8202,7 +8202,7 @@
     "age": 22,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "tamilarasi k"
+    "nameLow": "tamilarasi"
   },
   {
     "serial_number": 548,
@@ -8417,8 +8417,8 @@
   {
     "serial_number": 562,
     "part_number": 270,
-    "name": "VIDHYA A",
-    "name_tamil": "வித்யா ஏ",
+    "name": "VIDHYA",
+    "name_tamil": "வித்யா",
     "epic": "XYA2170827",
     "parent_name": "ANANDHAN",
     "parent_name_tamil": "ஆனந்தன்",
@@ -8427,7 +8427,7 @@
     "age": 20,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "vidhya a"
+    "nameLow": "vidhya"
   },
   {
     "serial_number": 563,
@@ -8507,8 +8507,8 @@
   {
     "serial_number": 568,
     "part_number": 270,
-    "name": "GANDHI A",
-    "name_tamil": "காந்தி ஏ",
+    "name": "GANDHI",
+    "name_tamil": "காந்தி",
     "epic": "DSK2711547",
     "parent_name": "Arumugam",
     "parent_name_tamil": "ஆறுமுகம்",
@@ -8517,7 +8517,7 @@
     "age": 37,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "gandhi a"
+    "nameLow": "gandhi"
   },
   {
     "serial_number": 569,
@@ -8612,8 +8612,8 @@
   {
     "serial_number": 575,
     "part_number": 270,
-    "name": "AARTHI PRIYA G",
-    "name_tamil": "ஆர்த்தி பிரியா ஜி",
+    "name": "AARTHI PRIYA",
+    "name_tamil": "ஆர்த்தி பிரியா",
     "epic": "XYA2166189",
     "parent_name": "KRISHNAKUMAR",
     "parent_name_tamil": "கிருஷ்ணகுமார்",
@@ -8622,7 +8622,7 @@
     "age": 23,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "aarthi priya g"
+    "nameLow": "aarthi priya"
   },
   {
     "serial_number": 576,
@@ -9107,8 +9107,8 @@
   {
     "serial_number": 608,
     "part_number": 270,
-    "name": "Hariharan K",
-    "name_tamil": "ஹரிஹரன் கே",
+    "name": "Hariharan",
+    "name_tamil": "ஹரிஹரன்",
     "epic": "XYA2152478",
     "parent_name": "Kalivarathan",
     "parent_name_tamil": "கலிவரதன்",
@@ -9117,7 +9117,7 @@
     "age": 22,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "hariharan k"
+    "nameLow": "hariharan"
   },
   {
     "serial_number": 609,
@@ -9827,8 +9827,8 @@
   {
     "serial_number": 656,
     "part_number": 270,
-    "name": "Dhinesh Karthik B",
-    "name_tamil": "தினேஷ் கார்த்திக் பி",
+    "name": "Dhinesh Karthik",
+    "name_tamil": "தினேஷ் கார்த்திக்",
     "epic": "XYA2157253",
     "parent_name": "Baskar",
     "parent_name_tamil": "பாஸ்கர்",
@@ -9837,7 +9837,7 @@
     "age": 19,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "dhinesh karthik b"
+    "nameLow": "dhinesh karthik"
   },
   {
     "serial_number": 657,
@@ -12707,8 +12707,8 @@
   {
     "serial_number": 848,
     "part_number": 270,
-    "name": "R GNANAVEL",
-    "name_tamil": "ஆர் ஞானவேல்",
+    "name": "GNANAVEL",
+    "name_tamil": "ஞானவேல்",
     "epic": "DSK2798825",
     "parent_name": "Renu",
     "parent_name_tamil": "ரேணு",
@@ -12717,7 +12717,7 @@
     "age": 48,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "r gnanavel"
+    "nameLow": "gnanavel"
   },
   {
     "serial_number": 849,
@@ -13427,8 +13427,8 @@
   {
     "serial_number": 896,
     "part_number": 270,
-    "name": "SEKARAN P",
-    "name_tamil": "சேகரன் பி",
+    "name": "SEKARAN",
+    "name_tamil": "சேகரன்",
     "epic": "XYA0477364",
     "parent_name": "Pavadai",
     "parent_name_tamil": "பாவாடை",
@@ -13437,13 +13437,13 @@
     "age": 80,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "sekaran p"
+    "nameLow": "sekaran"
   },
   {
     "serial_number": 897,
     "part_number": 270,
-    "name": "VANMATHI S",
-    "name_tamil": "வான்மதி எஸ்",
+    "name": "VANMATHI",
+    "name_tamil": "வான்மதி",
     "epic": "XYA0477380",
     "parent_name": "Sekaran",
     "parent_name_tamil": "சேகரன்",
@@ -13452,13 +13452,13 @@
     "age": 44,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "vanmathi s"
+    "nameLow": "vanmathi"
   },
   {
     "serial_number": 898,
     "part_number": 270,
-    "name": "SAKTHISIVA KUMARAN S",
-    "name_tamil": "சக்திசிவ குமரன் எஸ்",
+    "name": "SAKTHISIVA KUMARAN",
+    "name_tamil": "சக்திசிவ குமரன்",
     "epic": "XYA0477372",
     "parent_name": "Sekaran",
     "parent_name_tamil": "சேகரன்",
@@ -13467,7 +13467,7 @@
     "age": 38,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "sakthisiva kumaran s"
+    "nameLow": "sakthisiva kumaran"
   },
   {
     "serial_number": 899,
@@ -14027,8 +14027,8 @@
   {
     "serial_number": 936,
     "part_number": 270,
-    "name": "Amutha D",
-    "name_tamil": "அமுதா டி",
+    "name": "Amutha",
+    "name_tamil": "அமுதா",
     "epic": "XYA2162972",
     "parent_name": "Thiruvalan",
     "parent_name_tamil": "திருவாளன்",
@@ -14037,7 +14037,7 @@
     "age": 35,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "amutha d"
+    "nameLow": "amutha"
   },
   {
     "serial_number": 937,
@@ -14252,8 +14252,8 @@
   {
     "serial_number": 951,
     "part_number": 270,
-    "name": "Sri Amrutha R",
-    "name_tamil": "ஸ்ரீ அம்ருதா ஆர்",
+    "name": "Sri Amrutha",
+    "name_tamil": "ஸ்ரீ அம்ருதா",
     "epic": "XYA2079069",
     "parent_name": "Rajhendheran",
     "parent_name_tamil": "ராஜேந்திரன்",
@@ -14262,7 +14262,7 @@
     "age": 22,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "sri amrutha r"
+    "nameLow": "sri amrutha"
   },
   {
     "serial_number": 952,
@@ -14603,7 +14603,7 @@
     "parent_name": "ELUMALAI",
     "parent_name_tamil": "எழுமலை",
     "house_number": "223",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14618,7 +14618,7 @@
     "parent_name": "manikandan",
     "parent_name_tamil": "மணிகண்டன்",
     "house_number": "83",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 29,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14633,7 +14633,7 @@
     "parent_name": "Premkumar",
     "parent_name_tamil": "பிரேம்குமார்",
     "house_number": "39",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 25,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14648,7 +14648,7 @@
     "parent_name": "Premkumar",
     "parent_name_tamil": "பிரேம்குமார்",
     "house_number": "39",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 21,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14663,7 +14663,7 @@
     "parent_name": "Iyyappan",
     "parent_name_tamil": "ஐயப்பன்",
     "house_number": "110",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14678,7 +14678,7 @@
     "parent_name": "Kavitha",
     "parent_name_tamil": "கவிதா",
     "house_number": "No",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 23,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14693,7 +14693,7 @@
     "parent_name": "Vedhachalam",
     "parent_name_tamil": "வேதாச்சலம்",
     "house_number": "No",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 19,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14708,7 +14708,7 @@
     "parent_name": "Bakiyalakshmi",
     "parent_name_tamil": "பாக்கியலட்சுமி",
     "house_number": "377",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 19,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14723,7 +14723,7 @@
     "parent_name": "Kavitha",
     "parent_name_tamil": "கவிதா",
     "house_number": "No",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14738,7 +14738,7 @@
     "parent_name": "Vasudevan",
     "parent_name_tamil": "வாசுதேவன்",
     "house_number": "No",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14753,7 +14753,7 @@
     "parent_name": "Sivakumar",
     "parent_name_tamil": "சிவகுமார்",
     "house_number": "No",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14768,7 +14768,7 @@
     "parent_name": "Varadharasu",
     "parent_name_tamil": "வரதராசு",
     "house_number": "303",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 81,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14783,7 +14783,7 @@
     "parent_name": "VELU",
     "parent_name_tamil": "வேலு",
     "house_number": "90",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14798,7 +14798,7 @@
     "parent_name": "GOVINDHASAMY",
     "parent_name_tamil": "கோவிந்தசாமி",
     "house_number": "1889",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 31,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14807,32 +14807,32 @@
   {
     "serial_number": 988,
     "part_number": 270,
-    "name": "M SINDHUJA",
-    "name_tamil": "எம் சிந்துஜா",
+    "name": "SINDHUJA",
+    "name_tamil": "சிந்துஜா",
     "epic": "XYA2218022",
     "parent_name": "VIGNESH",
     "parent_name_tamil": "விக்னேஷ்",
     "house_number": "138",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 27,
     "gender": "Female / பெண்",
     "status": "active",
-    "nameLow": "m sindhuja"
+    "nameLow": "sindhuja"
   },
   {
     "serial_number": 989,
     "part_number": 270,
-    "name": "Lakshminarayanan N",
-    "name_tamil": "லட்சுமிநாராயணன் என்",
+    "name": "Lakshminarayanan",
+    "name_tamil": "லட்சுமிநாராயணன்",
     "epic": "XYA2218964",
     "parent_name": "Nadesan",
     "parent_name_tamil": "நடேசன்",
     "house_number": "117",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 38,
     "gender": "Male / ஆண்",
     "status": "active",
-    "nameLow": "lakshminarayanan n"
+    "nameLow": "lakshminarayanan"
   },
   {
     "serial_number": 990,
@@ -14843,7 +14843,7 @@
     "parent_name": "BALAJI",
     "parent_name_tamil": "பாலாஜி",
     "house_number": "106",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 23,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14858,7 +14858,7 @@
     "parent_name": "EZHUMALAI",
     "parent_name_tamil": "ஏழுமலை",
     "house_number": "296",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 50,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14873,7 +14873,7 @@
     "parent_name": "MOHANDOSS",
     "parent_name_tamil": "மோகன்டோஸ்",
     "house_number": "31",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 26,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14888,7 +14888,7 @@
     "parent_name": "Ramalingam",
     "parent_name_tamil": "ராமலிங்கம்",
     "house_number": "01",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14903,7 +14903,7 @@
     "parent_name": "SARAVANAN",
     "parent_name_tamil": "சரவணன்",
     "house_number": "53",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 21,
     "gender": "Male / ஆண்",
     "status": "active",
@@ -14918,7 +14918,7 @@
     "parent_name": "Krishnan",
     "parent_name_tamil": "கிருஷ்ணன்",
     "house_number": "18",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 29,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14933,7 +14933,7 @@
     "parent_name": "MUNIYANDI",
     "parent_name_tamil": "முனியாண்டி",
     "house_number": "147",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 19,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14948,7 +14948,7 @@
     "parent_name": "ETTIYAPPAN",
     "parent_name_tamil": "எட்டியப்பன்",
     "house_number": "85",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 23,
     "gender": "Female / பெண்",
     "status": "active",
@@ -14963,7 +14963,7 @@
     "parent_name": "Janarthanan",
     "parent_name_tamil": "ஜனார்த்தனன்",
     "house_number": "326",
-    "street_name": "South Thoppu",
+    "street_name": "Unknown",
     "age": 18,
     "gender": "Male / ஆண்",
     "status": "active",
